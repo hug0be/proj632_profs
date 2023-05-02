@@ -1,0 +1,3014 @@
+[
+    {
+        "nom": "Emile Roux",
+        "mail": "emile.roux@univ-smb.fr",
+        "cours": {
+            "UE502 : Sciences de l'Ing\u00e9nieur": [
+                "MATE551z : Mat\u00e9riaux - Materials",
+                "MECA501z : M\u00e9canique appliqu\u00e9e - Applied mechanics"
+            ],
+            "UE603 : Conception m\u00e9canique": [
+                "MECA654w : Dynamique des syst\u00e8mes m\u00e9caniques - Dynamic Mechanisms"
+            ],
+            "UE503 : Sciences de l'Ing\u00e9nieur": [
+                "MATE551 : Mat\u00e9riaux - Material",
+                "MECA501a : M\u00e9canique appliqu\u00e9e - Applied mechanics",
+                "MECA512 : M\u00e9canique appliqu\u00e9e - Mechanics"
+            ],
+            "UE602 : Sciences de l'ing\u00e9nieur": [
+                "MECA654 : Dynamique des syst\u00e8mes m\u00e9caniques - Dynamic of Mechanical Systems."
+            ],
+            "UE904 : Passerelle vers le milieu professionnel": [
+                "PROJ901w : Projet Recherche et D\u00e9veloppement - R and D Project"
+            ],
+            "UE901 : Passerelle vers le milieu professionnel": [
+                "PROJ901 : Projet Recherche et D\u00e9veloppement - R and D Project"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Hugues Favreliere",
+        "mail": "hugues.favreliere@univ-savoie.fr",
+        "cours": {
+            "UE502 : Sciences de l'Ing\u00e9nieur": [
+                "MECA551z : CAO et prototypage - Computer Aided Design and Prototyping"
+            ],
+            "UE503 : Sciences de l'Ing\u00e9nieur": [
+                "MECA551 : CAO et prototypage - Computer Aided Design and Prototyping"
+            ],
+            "UE703 : Production et Qualit\u00e9": [
+                "MECA755 : Suret\u00e9 de fonctionnement (parcours MMT) - Industrial Equipment Reliability (option in Mechanics)"
+            ],
+            "UE704 : Passerelle vers le milieu professionnel": [
+                "LANG702w : Langues vivantes (Niveau B2) - Foreign languages ( B2 level)"
+            ],
+            "UE804 : Passerelle vers le milieu professionnel": [
+                "LANG802w : Langues vivantes (Niveau B2) - Foreign languages (B2 level)"
+            ],
+            "UE904 : Passerelle vers le milieu professionnel": [
+                "LANG902w : Langues vivantes (Niveau B2) - Foreign languages (B2 level)"
+            ],
+            "UE701 : Passerelle vers le milieu professionnel": [
+                "LANG702 : Langues vivantes (Niveau B2) - Foreign languages (B2 level)"
+            ],
+            "UE703 : El\u00e9ments et production": [
+                "MECA755a : Suret\u00e9 de fonctionnement (parcours GMP) - Industrial Equipment Reliability (Option GMM)"
+            ],
+            "UE1 : Formation Scientifique": [
+                "MECA891 : CAO - Conception -"
+            ],
+            "UE902 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "MECA993 : S\u00fbret\u00e9 de fonctionnement - S\u00e9curit\u00e9 -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Fabien Formosa",
+        "mail": "fabien.formosa@univ-savoie.fr",
+        "cours": {
+            "UE502 : Sciences de l'Ing\u00e9nieur": [
+                "PHYS551z : Thermodynamique et thermique - Thermodynamics and heat transfer"
+            ],
+            "UE601 : Passerelle vers le milieu professionnel": [
+                "PROJ601 : Stage D\u00e9couverte du milieu professionnel - Internship Discovery of the Professional Environment"
+            ],
+            "UE702 : Conception m\u00e9canique , m\u00e9catronique et composite 1": [
+                "PROJ751 : Projet Technique 1 - Technical Project - Part 1"
+            ],
+            "UE802 : Conception m\u00e9canique, m\u00e9catronique et composite 2": [
+                "PROJ852 : Projet Technique 2 - Technical Project - Part 2"
+            ],
+            "UE803 : Stage": [
+                "PROJ801c : Stage Assistant Ing\u00e9nieur - Engineering assistant internship"
+            ],
+            "": [
+                "MGM 910 : Syst\u00e8mes fluidiques -",
+                "MGM 911 : Mod\u00e8les multi physiques et projets transverses -"
+            ],
+            "UE802 : Stage": [
+                "PROJ801 : Stage Assistant ing\u00e9nieur - Engineering Assistant Internship"
+            ],
+            "UE702 : Sciences de l'ing\u00e9nieur": [
+                "MECA756 : Conception de produit - Industrialisation - Product Design - Industrialisation"
+            ],
+            "UE704 : Composants et application (Parcours MMT)": [
+                "MECA758 : Technologies hydrauliques et pneumatiques (au choix) - hydraulic and pneumatic technologies",
+                "PROJ752 : Projet d'application - Implementation Project"
+            ],
+            "UE804 : Conception m\u00e9canique et m\u00e9catronique (Parcours MMT)": [
+                "MECA856 : Vibration (au choix) - Vibration",
+                "PROJ852 : Projet technique et d'innovation - Technical and innovative project"
+            ],
+            "UE903 : Fabrication et mise en \u0153uvre composite (Parcours MC)": [
+                "MECA957 : Composite 4.0 - Composite 4.0"
+            ],
+            "UE903 : Syst\u00e8mes m\u00e9catroniques, syst\u00e8mes de production : conception et optimisation (Parcours MMT)": [
+                "PROJ952 : Projet de synth\u00e8se - Synthesis project"
+            ],
+            "UE601 : Formation Scientifique": [
+                "MECA690 : M\u00e9canique et thermique -"
+            ],
+            "UE1 : Formation Scientifique": [
+                "MECA890 : M\u00e9canique des fluides, dynamique des structures -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Camilo Hernandez",
+        "mail": "camilo.hernandez-rodriguez@univ-savoie.fr",
+        "cours": {
+            "UE601 : Sciences de l'ing\u00e9nieur MM2": [
+                "EASI651w : M\u00e9trologie - Chaine de mesure - Metrology, Measurements acquisition"
+            ],
+            "UE704 : Composants et application (Parcours MMT)": [
+                "EASI752 : Sensors and Measuring Chains (au choix) - Sensors and Measuring Chains",
+                "EASI753 : Electronics (au choix) - Electronics"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Catherine Adloff",
+        "mail": "catherine.adloff@univ-savoie.fr",
+        "cours": {
+            "UE601 : Sciences de l'ing\u00e9nieur MM2": [
+                "MATH651w : Math\u00e9matiques II - Mathematics II for engineers"
+            ],
+            "UE602 : Sciences de l'ing\u00e9nieur": [
+                "MATH651 : Math\u00e9matiques - Mathematics"
+            ],
+            "UE501 : Sciences de l'Ing\u00e9nieur": [
+                "MATH501z : Math\u00e9matiques - Mathematics for engineers",
+                "MATH500z : Soutien : Math\u00e9matiques - Mathematics refresher course"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Eric Pairel",
+        "mail": "eric.pairel@univ-savoie.fr",
+        "cours": {
+            "UE601 : Sciences de l'ing\u00e9nieur MM2": [
+                "MECA651w : M\u00e9canique appliqu\u00e9e II : Statique + Fluides - Applied mechanics II: Statics and fluid mechanics"
+            ],
+            "UE602 : Sciences de l'ing\u00e9nieur": [
+                "MECA651 : M\u00e9canique appliqu\u00e9e II : Statique + Fluides - Applied mechanics II: Statics and fluid mechanics"
+            ],
+            "UE801 : Syst\u00e8me, Production et Qualit\u00e9": [
+                "MECA851 : Qualit\u00e9 en production - Quality Control"
+            ],
+            "UE803 : Stage": [
+                "PROJ801-1 : Stage Assistant Ing\u00e9nieur - Engineering assistant internship"
+            ],
+            "": [
+                "MGM 901 : Qualit\u00e9 en production -"
+            ],
+            "UE902 : Conception m\u00e9canique et m\u00e9catronique": [
+                "MECA960 : Th\u00e9orie des m\u00e9canismes et Tol\u00e9rancement - Theory of mechanisms, functional dimensioning and tolerancing"
+            ],
+            "UE001 : Stage Ing\u00e9nieur": [
+                "PROJ002 : Stage Ing\u00e9nieur - Engineering Internship",
+                "PROJ001 : Stage Ing\u00e9nieur - Internship"
+            ],
+            "UE604 : Passerelle vers le milieu professionnel": [
+                "PROJ601w : Stage D\u00e9couverte du milieu professionnel - Internship Discovery of the Professional Environment"
+            ],
+            "UE803 : Syst\u00e8mes, production et qualit\u00e9": [
+                "MECA851a : Qualit\u00e9 en production - Production Quality"
+            ],
+            "UE902 : Conception et automatisation (Parcours MMT)": [
+                "MECA955 : M\u00e9trologie et tol\u00e9rancement - Metrology and Tolerancing"
+            ],
+            "UE901 : Formation Scientifique": [
+                "MECA990 : CAO - Tol\u00e9rancement -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Philippe Saffre",
+        "mail": "philippe.saffre@univ-savoie.fr",
+        "cours": {
+            "UE602 : Num\u00e9rique pour l'ing\u00e9nieur": [
+                "MECA652w : M\u00e9canique num\u00e9rique - Numerical mechanics"
+            ],
+            "UE601 : Passerelle vers le milieu professionnel": [
+                "PROJ601 : Stage D\u00e9couverte du milieu professionnel - Internship Discovery of the Professional Environment"
+            ],
+            "UE603 : Num\u00e9rique pour l'ing\u00e9nieur": [
+                "MECA652 : M\u00e9canique num\u00e9rique - Numerical mechanics"
+            ],
+            "UE3 : MM-MC": [
+                "MGM758 : Conception et Dimensionnement - Design and FEA"
+            ],
+            "UE701 : Sciences de l'ing\u00e9nieur MM3": [
+                "MECA754 : Mod\u00e9lisation, El\u00e9ments finis - Modeling, Finite Element Method"
+            ],
+            "UE803 : Stage": [
+                "PROJ801-1 : Stage Assistant Ing\u00e9nieur - Engineering assistant internship",
+                "PROJ801c : Stage Assistant Ing\u00e9nieur - Engineering assistant internship"
+            ],
+            "": [
+                "MGM 912 : Comportements non-lin\u00e9aires -",
+                "MGM 914 : Conception composite -"
+            ],
+            "UE901 : Outils sp\u00e9cifiques au parcours MC": [
+                "MECA958 : Comportements non lin\u00e9aires - Non-linear Mechanics"
+            ],
+            "UE902 : Conception composite": [
+                "MECA957 : Conception et calculs composites - Design of Composite Structures",
+                "MGM958b : Comportements non lin\u00e9aires - Non-linear Mechanics",
+                "MGM960 : Dynamique et MEF - Dynamic Finite Element Analysis"
+            ],
+            "UE903 : Production Composite": [
+                "MGM962b : Conception composite - Design of Composite Structures"
+            ],
+            "UE904 : Passerelle vers le milieu professionnel": [
+                "PROJ901w : Projet Recherche et D\u00e9veloppement - R and D Project"
+            ],
+            "UE001 : Stage Ing\u00e9nieur": [
+                "PROJ002 : Stage Ing\u00e9nieur - Engineering Internship",
+                "PROJ001 : Stage Ing\u00e9nieur - Internship"
+            ],
+            "UE802 : Stage": [
+                "PROJ801 : Stage Assistant ing\u00e9nieur - Engineering Assistant Internship"
+            ],
+            "UE901 : Passerelle vers le milieu professionnel": [
+                "PROJ901 : Projet Recherche et D\u00e9veloppement - R and D Project"
+            ],
+            "UE604 : Passerelle vers le milieu professionnel": [
+                "PROJ601w : Stage D\u00e9couverte du milieu professionnel - Internship Discovery of the Professional Environment"
+            ],
+            "UE702 : Sciences de l'ing\u00e9nieur": [
+                "MECA754a : Mod\u00e9lisation - El\u00e9ments finis - Modeling, Finite Element Method"
+            ],
+            "UE804 : Conception des mat\u00e9riaux composites (Parcours MC)": [
+                "MECA855 : Conception et calculs composites - Design of Composite Structures"
+            ],
+            "UE902 : Conception des mat\u00e9riaux composites (Parcours MC)": [
+                "MECA958a : Comportement non lin\u00e9aire - Non-linear Mechanics"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Ludovic Charleux",
+        "mail": "ludovic.charleux@univ-savoie.fr",
+        "cours": {
+            "UE602 : Num\u00e9rique pour l'ing\u00e9nieur": [
+                "MECA653w : Outils num\u00e9riques pour l'ing\u00e9nieur - Numerical tools for engineering"
+            ],
+            "UE603 : Conception m\u00e9canique": [
+                "MGM655 : Structures poutres - Structural Beam Analysis"
+            ],
+            "UE603 : Num\u00e9rique pour l'ing\u00e9nieur": [
+                "MECA653 : Numerical tools for engineering - Numerical tools for engineering"
+            ],
+            "UE1 : MM-IM-MT": [
+                "MGM751 : M\u00e9thodes exp\u00e9rimentales pour l'\u00e9tude des structures et des mat\u00e9riaux - Experimental methods for materials and structural analysis"
+            ],
+            "UE501 : Formation Scientifique": [
+                "MECA591 : M\u00e9canique - Mechanics"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Pascal Francescato",
+        "mail": "pascal.francescato@univ-smb.fr",
+        "cours": {
+            "UE603 : Conception m\u00e9canique": [
+                "MATE651w : Proc\u00e9d\u00e9s de mise en oeuvre des mat\u00e9riaux - Implementation Materials"
+            ],
+            "UE604 : Conception m\u00e9canique - m\u00e9catronique": [
+                "MATE651 : Proc\u00e9d\u00e9s de mise en \u0153uvre des mat\u00e9riaux - Implementation Materials"
+            ],
+            "UE3 : MM-MC": [
+                "MGM757b : RDM - Poutres h\u00e9t\u00e9rog\u00e8nes - Composite beam design"
+            ],
+            "UE702 : Conception m\u00e9canique , m\u00e9catronique et composite 1": [
+                "PROJ751 : Projet Technique 1 - Technical Project - Part 1"
+            ],
+            "UE801 : Syst\u00e8me, Production et Qualit\u00e9": [
+                "MATE853 : Fabrication Composites 1 (parcours MC) - Industrial processes for composite materials - Part 1 ( option in Materials)"
+            ],
+            "UE802 : Conception m\u00e9canique, m\u00e9catronique et composite 2": [
+                "PROJ852 : Projet Technique 2 - Technical Project - Part 2"
+            ],
+            "": [
+                "MGM 909 : M\u00e9canique des structures composites 2 -"
+            ],
+            "UE901 : Outils sp\u00e9cifiques au parcours MC": [
+                "MECA959 : Comportements extr\u00eames des structures composites - Damage, buckling and fatigue of composite structures"
+            ],
+            "UE902 : Conception composite": [
+                "MECA956 : M\u00e9canique des structures composites 2 - Mechanics of composite structures - Part 2"
+            ],
+            "UE903 : Production Composite": [
+                "MATE952 : Fabrication Composite 2 - Industrial processes for composite materials - Part 2",
+                "MGM961b : M\u00e9canique des structures composites 2 - Mechanics of composite structures"
+            ],
+            "UE704 : Conception des mat\u00e9riaux composites (Parcours MC)": [
+                "PROJ752a : Projet d'application - Application project"
+            ],
+            "UE804 : Conception des mat\u00e9riaux composites (Parcours MC)": [
+                "PROJ852a : Projet technique et d'innovation - Technical and innovation project"
+            ],
+            "UE903 : Fabrication et mise en \u0153uvre composite (Parcours MC)": [
+                "MATE952 : Fabrication composites - Composite Manufacturing"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Pascal Hernandez",
+        "mail": "pascal.hernandez@univ-savoie.fr",
+        "cours": {
+            "UE603 : Conception m\u00e9canique": [
+                "MECA655w : Conception et Technologie m\u00e9canique - Design and mechanical technology"
+            ],
+            "UE604 : Conception m\u00e9canique - m\u00e9catronique": [
+                "MECA655 : Conception et technologies m\u00e9caniques - Design and mechanical technology"
+            ],
+            "UE701 : Sciences de l'ing\u00e9nieur MM3": [
+                "MECA753 : Construction m\u00e9canique (parcours MMT) - Design of Mechanical Systems and Components (option in Mechanics)",
+                "MECA754 : Mod\u00e9lisation, El\u00e9ments finis - Modeling, Finite Element Method"
+            ],
+            "UE802 : Conception m\u00e9canique, m\u00e9catronique et composite 2": [
+                "MECA853 : El\u00e9ments de machines (parcours MMT) - Elements of Mechanical Design (option in Mechanics)"
+            ],
+            "UE702 : Sciences de l'ing\u00e9nieur": [
+                "MECA753a : Construction m\u00e9canique (parcours GMP) - Mechanical Engineering (option GMM)",
+                "MECA754a : Mod\u00e9lisation - El\u00e9ments finis - Modeling, Finite Element Method"
+            ],
+            "UE803 : Syst\u00e8mes, production et qualit\u00e9": [
+                "MECA853a : El\u00e9ments de machines (Parcours MMT) - Machine components (Option in MMT)"
+            ],
+            "UE902 : Conception et automatisation (Parcours MMT)": [
+                "MECA951 : Th\u00e9orie des m\u00e9canismes - Theory of Mechanisms"
+            ],
+            "": [
+                "MGM 592 : R\u00e9sistance des mat\u00e9riaux -",
+                "MGM 593 : Conception -"
+            ],
+            "UE501 : Formation Scientifique": [
+                "MECA592 : R\u00e9sistance des mat\u00e9riaux -",
+                "MECA593 : Conception -"
+            ],
+            "UE504 : Travail en entreprise": [
+                "ENTR590 : Evolution dans l'entreprise : Etre un technicien op\u00e9rationel -",
+                "PROJ590 : Th\u00e8me de d\u00e9couverte du m\u00e9tier d'ing\u00e9nieur -"
+            ],
+            "UE604 : Travail en entreprise": [
+                "PROJ690 : Th\u00e8me pr\u00e9paratoire -"
+            ],
+            "UE701 : Formation Scientifique": [
+                "MECA790 : M\u00e9canique, dymanique m\u00e9thodes \u00e9nerg\u00e9tiques -",
+                "MECA791 : Dimensionnement des structures -"
+            ],
+            "UE704 : Travail en entreprise": [
+                "PROJ790 : Projet technique -"
+            ],
+            "UE804 : Travail en entreprise": [
+                "PROJ890 : Projet gestion -"
+            ],
+            "UE904 : Travail en entreprise": [
+                "PROJ990 : Projet management -"
+            ],
+            "UE001 : Travail en entreprise": [
+                "ENTR1090 : Evolution dans l'entreprise de technicien \u00e0 Ing\u00e9nieur -",
+                "PROJ1090 : Projet ing\u00e9nieur -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Muriel Yvenat",
+        "mail": "muriel.yvenat@univ-smb.fr",
+        "cours": {
+            "UE501 : Passerelle vers le milieu professionnel": [
+                "LANG500 : Soutien Anglais - Tutoring in English",
+                "LANG501 : Anglais - English"
+            ],
+            "UE601 : Passerelle vers le milieu professionnel": [
+                "LANG600 : Soutien : Anglais - Tutoring in English",
+                "LANG601 : Anglais - English"
+            ],
+            "UE701 : Passerelle vers le milieu professionnel": [
+                "LANG700a : Soutien : Anglais -",
+                "LANG700 : Soutien : Anglais - Tutoring in English",
+                "LANG701 : Anglais (Niveau B2 non atteint) - English (below B2 level)"
+            ],
+            "UE704 : Passerelle vers le milieu professionnel": [
+                "LANG700w : Soutien : Anglais -",
+                "LANG701w : Anglais (Niveau B2 non atteint) - English (Below B2 level)"
+            ],
+            "UE804 : Passerelle vers le milieu professionnel": [
+                "LANG801w : Anglais (Niveau B2 non atteint) - English (below B2 level)",
+                "LANG800w : Soutien Anglais - Tutoring in English"
+            ],
+            "UE904 : Passerelle vers le milieu professionnel": [
+                "LANG901w : Anglais (Niveau B2 non atteint) - English (Below B2 level)"
+            ],
+            "UE801 : Passerelle vers le milieu professionnel": [
+                "LANG800 : Soutien : Anglais - Tutoring in English",
+                "LANG801 : Anglais (Niveau B2 non atteint) - English (Below B2 Level)",
+                "LANG802 : Langues vivantes (Niveau B2) - Foreign languages (B2 level)"
+            ],
+            "UE901 : Passerelle vers le milieu professionnel": [
+                "LANG901 : Anglais (Niveau TOEIC non atteint) - English",
+                "LANG902 : Langues (Niveau TOEIC atteint) - Foreing Language (above TOEIC Level)"
+            ],
+            "UE503 : Passerelle vers le milieu professionnel": [
+                "LANG500z : Soutien : Anglais - Tutoring in English",
+                "LANG501z : Anglais - English"
+            ],
+            "UE604 : Passerelle vers le milieu professionnel": [
+                "LANG600w : Soutien : Anglais - Tutoring in English",
+                "LANG601w : Anglais - English"
+            ],
+            "UE503 : Connaissance des entreprises": [
+                "LANG590 : Anglais -"
+            ],
+            "": [
+                "LV 690 : Anglais -",
+                "LV 790 : Anglais -",
+                "LV 890 : Anglais -",
+                "LV 990 : Anglais -",
+                "LV 991 : Anglais -"
+            ],
+            "UE603 : Connaissance de l'entreprise": [
+                "LANG690 : Anglais -"
+            ],
+            "UE703 : Connaissance de l'entreprise": [
+                "LANG790 : Anglais -"
+            ],
+            "UE803 : Management et Anglais": [
+                "LANG890 : Anglais -"
+            ],
+            "UE903 : Management & Anglais": [
+                "LV990 : Anglais -",
+                "LV991 : Anglais -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Christophe Lambert",
+        "mail": "christophe.lambert@univ-smb.fr",
+        "cours": {
+            "UE501 : Passerelle vers le milieu professionnel": [
+                "LANG500 : Soutien Anglais - Tutoring in English",
+                "LANG501 : Anglais - English"
+            ],
+            "UE501 : Sciences de l'Ing\u00e9nieur": [
+                "IGI502 : L'informatique en pratique - Computer Science Labs"
+            ],
+            "UE601 : Passerelle vers le milieu professionnel": [
+                "LANG600 : Soutien : Anglais - Tutoring in English",
+                "LANG601 : Anglais - English"
+            ],
+            "UE704 : Passerelle vers le milieu professionnel": [
+                "LANG700w : Soutien : Anglais -",
+                "LANG701w : Anglais (Niveau B2 non atteint) - English (Below B2 level)",
+                "LANG702w : Langues vivantes (Niveau B2) - Foreign languages ( B2 level)"
+            ],
+            "UE804 : Passerelle vers le milieu professionnel": [
+                "LANG801w : Anglais (Niveau B2 non atteint) - English (below B2 level)",
+                "LANG802w : Langues vivantes (Niveau B2) - Foreign languages (B2 level)",
+                "LANG800w : Soutien Anglais - Tutoring in English"
+            ],
+            "UE904 : Passerelle vers le milieu professionnel": [
+                "LANG901w : Anglais (Niveau B2 non atteint) - English (Below B2 level)",
+                "LANG902w : Langues vivantes (Niveau B2) - Foreign languages (B2 level)"
+            ],
+            "UE701 : Passerelle vers le milieu professionnel": [
+                "LANG700 : Soutien : Anglais - Tutoring in English",
+                "LANG701 : Anglais (Niveau B2 non atteint) - English (below B2 level)",
+                "LANG702 : Langues vivantes (Niveau B2) - Foreign languages (B2 level)"
+            ],
+            "UE801 : Passerelle vers le milieu professionnel": [
+                "LANG800 : Soutien : Anglais - Tutoring in English",
+                "LANG801 : Anglais (Niveau B2 non atteint) - English (Below B2 Level)",
+                "LANG802 : Langues vivantes (Niveau B2) - Foreign languages (B2 level)"
+            ],
+            "UE901 : Passerelle vers le milieu professionnel": [
+                "LANG901 : Anglais (Niveau TOEIC non atteint) - English",
+                "LANG902 : Langues (Niveau TOEIC atteint) - Foreing Language (above TOEIC Level)"
+            ],
+            "UE604 : Passerelle vers le milieu professionnel": [
+                "LANG600w : Soutien : Anglais - Tutoring in English",
+                "LANG601w : Anglais - English"
+            ],
+            "UE503 : Connaissance des entreprises et acteurs du b\u00e2timent": [
+                "LANG580 : Anglais - English"
+            ],
+            "UE603 : SHES-Langues": [
+                "LANG680 : Anglais - English"
+            ],
+            "UE703 : Processus de conception & BIM": [
+                "LANG780 : Anglais (niveau TOEIC non atteint) - English",
+                "LANG781 : Anglais (Niveau TOEIC atteint) - English"
+            ],
+            "UE803 : Conception/Etudes & BIM": [
+                "LANG880 : Anglais (niveau TOEIC non atteint) - English",
+                "LANG881 : Anglais (niveau TOEIC atteint) - English"
+            ],
+            "UE903 : SHES-Langues": [
+                "LANG980 : Anglais (Niveau B2 non atteint) - English Below B2 level)",
+                "LANG981 : Anglais (Niveau B2) - English (B2 level)"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Jean-Baptiste Evrot",
+        "mail": "jean-baptiste.evrot@univ-smb.fr",
+        "cours": {
+            "UE501 : Passerelle vers le milieu professionnel": [
+                "SHES501 : Sport - Sport"
+            ],
+            "UE503 : Passerelle vers le milieu professionnel": [
+                "SHES501z : Sport - Sport"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Francoise Ducoeur",
+        "mail": "francoise.ducoeur@univ-smb.fr",
+        "cours": {
+            "UE501 : Passerelle vers le milieu professionnel": [
+                "SHES501 : Sport - Sport"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Elodie Gardet",
+        "mail": "elodie.gardet@univ-smb.fr",
+        "cours": {
+            "UE501 : Passerelle vers le milieu professionnel": [
+                "SHES505 : Simulation de gestion d'entreprise - Business Game"
+            ],
+            "UE601 : Passerelle vers le milieu professionnel": [
+                "SHES601 : Gestion financi\u00e8re - Introduction to Accounting and Corporate Finance",
+                "SHES602 : Initiation au droit - Introduction to Law"
+            ],
+            "UE704 : Passerelle vers le milieu professionnel": [
+                "SHES704w : Cr\u00e9ativit\u00e9 et Management de l'innovation - Creativity and innovation management"
+            ],
+            "UE804 : Passerelle vers le milieu professionnel": [
+                "SHES802w : Syst\u00e8me de Management Int\u00e9gr\u00e9 QSE (Qualit\u00e9 S\u00e9curit\u00e9 Environnement) - Integrated Management System QSE (Quality Safety Environment)",
+                "SHES803w : Th\u00e9orie des organisations - Organization theory"
+            ],
+            "UE701 : Passerelle vers le milieu professionnel": [
+                "SHES704 : Cr\u00e9ativit\u00e9 et Management de l'innovation - Creativity and innovation management"
+            ],
+            "UE801 : Passerelle vers le milieu professionnel": [
+                "SHES803 : Th\u00e9orie des organisations - Organization theory"
+            ],
+            "UE503 : Passerelle vers le milieu professionnel": [
+                "SHES505z : Simulation de gestion d'entreprise - Business Game"
+            ],
+            "UE604 : Passerelle vers le milieu professionnel": [
+                "SHES602w : Initiation au droit - Introduction to Law"
+            ],
+            "UE503 : Connaissance des entreprises et acteurs du b\u00e2timent": [
+                "SHES505 : Simulation de gestion d'entreprise - Business Game"
+            ],
+            "UE703 : Connaissance de l'entreprise": [
+                "SHES791 : Entrepreneuriat -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Flavien Vernier",
+        "mail": "flavien.vernier@univ-savoie.fr",
+        "cours": {
+            "UE501 : Sciences de l'Ing\u00e9nieur": [
+                "IGI501 : Bases de l'informatique - Algorithms and Data Base",
+                "INFO502z : Base de Donn\u00e9es - Data base"
+            ],
+            "UE502 : Sciences et outils de l'Ing\u00e9nieur": [
+                "INFO502 : Bases de donn\u00e9es - Data base"
+            ],
+            "UE503 : Sciences de l'ing\u00e9nieur IDU1": [
+                "MATH531 : Graphes et Langages - Graphs Theory and Language"
+            ],
+            "UE601 : Math\u00e9matiques et Algorithmique": [
+                "INFO631w : Logique et Programmation - logic Programming"
+            ],
+            "UE602 : Math\u00e9matiques et Algorithmique": [
+                "INFO631 : Logique et Programmation - Logic Programming"
+            ],
+            "UE802 : Informatique et Conception III": [
+                "INFO832w : Qualit\u00e9 et tests logiciel - Data and Software Quality Assurance"
+            ],
+            "UE804 : Informatique et Conception": [
+                "INFO832 : Qualit\u00e9 et tests logiciel - Data and Software Quality Assurance"
+            ],
+            "": [
+                "IGI 946 : Qualit\u00e9, test et maintenance -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Herve Boileau",
+        "mail": "herve.boileau@univ-smb.fr",
+        "cours": {
+            "UE502 : Sciences et outils de l'Ing\u00e9nieur": [
+                "DDRS501 : D\u00e9veloppement Durable - Sustainable Development"
+            ],
+            "UE503 : Passerelle vers le milieu professionnel": [
+                "SHES503z : D\u00e9veloppement durable - Sustainable development",
+                "SHES502 : D\u00e9veloppement durable - Sustainable development"
+            ],
+            "UE503 : Gestion des flux \u00e0 l'\u00e9chelle du territoire": [
+                "PROJ521 : APP0 : Innovation cr\u00e9ativit\u00e9 - Project base learning: Innovation and Creativity",
+                "PROJ522 : APP : Gestion et collecte des d\u00e9chets - Problem-based learning : Management and Collecting Waste",
+                "SCVT521 : Bases de donn\u00e9es et outils de mod\u00e9lisation-Recherche bibliographique - Databases and modelling tools - Bibliographic research",
+                "SHES521 : Organisation Territoriale - Territorial Organization"
+            ],
+            "UE602 : Ressources naturelles : Exploitation et Interactions": [
+                "DDRS621 : D\u00e9veloppement durable - Sustainable Development",
+                "SCVT621 : Cycles biog\u00e9ochimiques et ressources naturelles - Biogeochemical cycles and natural ressources"
+            ],
+            "UE703 : Ecologie industrielle et territoriale": [
+                "PROJ721 : APP : Ecologie Industrielle et Territoriale - Problem-based learning: Territorial and Industrial Ecology"
+            ],
+            "UE903 : Valorisation des \u00e9nergies renouvelables": [
+                "PROJ921 : APP : D\u00e9chets organiques et \u00e9nergie - Problem-based learning: Organic Waste and Energy",
+                "SHES921 : Droit de l'\u00e9nergie, de l'environnement et des march\u00e9s publics - Energy and Environmental Laws, Public Market"
+            ],
+            "UE601 : Sciences de l'Ing\u00e9nieur EBE2": [
+                "MATE612w : Mat\u00e9riaux & D\u00e9veloppement Durable - Materials and Sustainable development"
+            ],
+            "UE603 : Sciences de l'ing\u00e9nieur EBE4": [
+                "GDP611 : Gestion et valorisation des d\u00e9chets - Waste management"
+            ],
+            "UE701 : Sciences Environnementales (au choix)": [
+                "GDP711 : Bio\u00e9nergies - Bioenergy"
+            ],
+            "UE702 : Outils pour l'ing\u00e9nieur": [
+                "PROJ711 : Projet - Project"
+            ],
+            "UE801 : Biotechnologie et Proc\u00e9d\u00e9s (au choix)": [
+                "GEDP814 : Bio\u00e9nergie - Energy from Waste and Biomass"
+            ],
+            "UE803 : Stage": [
+                "PROJ811 : Projet - Project"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Francois Leplus",
+        "mail": "francois.leplus@univ-smb.fr",
+        "cours": {
+            "UE502 : Sciences et outils de l'Ing\u00e9nieur": [
+                "EASI501 : Electricit\u00e9 - Electrical Engineering"
+            ],
+            "UE501 : Sciences de l'Ing\u00e9nieur": [
+                "EASI501z : Electricit\u00e9 - Electrical Engineering"
+            ],
+            "UE501 : Formation Scientifique": [
+                "MECA590 : Outils pour l'ing\u00e9nieur - Tools fo engineer"
+            ],
+            "UE802 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "EASI891 : Capteurs (Parcours CM) - Sensors"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Christelle Kempf -Coco",
+        "mail": "christelle.kempf-coco@univ-smb.fr",
+        "cours": {
+            "UE502 : Sciences et outils de l'Ing\u00e9nieur": [
+                "EASI501 : Electricit\u00e9 - Electrical Engineering"
+            ],
+            "UE604 : Qualit\u00e9 \u00e9nerg\u00e9tique et environnementale des b\u00e2timents": [
+                "GECH615 : Acoustique et \u00e9clairage - Acoustics, and Lighting"
+            ],
+            "UE804 : Energies renouvelables et environnement (au choix)": [
+                "ENER813 : Energies renouvelables - Renewable Energy"
+            ],
+            "UE501 : Sciences de l'Ing\u00e9nieur": [
+                "EASI501z : Electricit\u00e9 - Electrical Engineering"
+            ],
+            "UE801 : Energ\u00e9tique du b\u00e2timent": [
+                "GECH880 : Acoustique du B\u00e2timent - Building Acoustics"
+            ],
+            "UE601 : Sciences de l'Ing\u00e9nieur EBE2": [
+                "EEATS611 : Electrom\u00e9canique - Electromechanics"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Ammar Mian",
+        "mail": "ammar.mian@univ-smb.fr",
+        "cours": {
+            "UE502 : Sciences et outils de l'Ing\u00e9nieur": [
+                "INFO501 : Num\u00e9ration et Algorithmique - Number representation and algorithm design"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Thomas Mazingue",
+        "mail": "thomas.mazingue@univ-smb.fr",
+        "cours": {
+            "UE503 : Sciences de l'Ing\u00e9nieur": [
+                "PHYS551 : Thermodynamique et thermique - Thermodynamics and heat transfer",
+                "PHYS542 : Electromagn\u00e9tisme appliqu\u00e9 \u00e0 la transmission de l'information - Electromagnetism applied to the transmission of information"
+            ],
+            "UE502 : Sciences de l'Ing\u00e9nieur": [
+                "PHYS542w : Electromagn\u00e9tisme appliqu\u00e9 \u00e0 la transmission de l'information - Electromagnetism"
+            ],
+            "UE601 : Physique appliqu\u00e9e et Math\u00e9matiques": [
+                "PHYS641w : Mat\u00e9riaux actifs et intelligents pour l'instrumentation - Smart materials for instrumentation"
+            ],
+            "UE702 : Sciences de l'ing\u00e9nieur IAI3": [
+                "PHYS733 : Mat\u00e9riaux actifs et intelligents pour l'instrumentation - Smart materials for instrumentation"
+            ],
+            "UE802 : Instrumentation": [
+                "PHYS834 : Physique exp\u00e9rimentale - Experimental Physics",
+                "PHYS841w : Physique exp\u00e9rimentale et syst\u00e8mes instrument\u00e9s complexes - Experimental Physics"
+            ],
+            "": [
+                "PHYS 913 : Physique exp\u00e9rimentale 2 -"
+            ],
+            "UE602 : Sciences appliqu\u00e9es et apprentissage par projet": [
+                "PACI641 : Mat\u00e9riaux actifs et intelligents pour l'instrumentation - Active and Intelligent Materials for Instrumentation"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Michel Ondarts",
+        "mail": "michel.ondarts@univ-smb.fr",
+        "cours": {
+            "UE601 : Passerelle vers le milieu professionnel": [
+                "PROJ601 : Stage D\u00e9couverte du milieu professionnel - Internship Discovery of the Professional Environment"
+            ],
+            "UE001 : Stage Ing\u00e9nieur": [
+                "PROJ002 : Stage Ing\u00e9nieur - Engineering Internship",
+                "PROJ001 : Stage Ing\u00e9nieur - Internship"
+            ],
+            "UE802 : Stage": [
+                "PROJ801 : Stage Assistant ing\u00e9nieur - Engineering Assistant Internship"
+            ],
+            "UE604 : Passerelle vers le milieu professionnel": [
+                "PROJ601w : Stage D\u00e9couverte du milieu professionnel - Internship Discovery of the Professional Environment"
+            ],
+            "UE702 : Energie et traitement des gaz": [
+                "GEDP722 : Pollution atmosph\u00e9rique : enjeux et proc\u00e9d\u00e9s de filtration - Air Pollution: Issues and Filtration processes"
+            ],
+            "UE902 : G\u00e9nie des proc\u00e9d\u00e9s et \u00e9nergie": [
+                "GEDP921 : Traitement des pollutions gazeuses - Treatment of gas contamination"
+            ],
+            "UE901 : Traitement des eaux et bioproc\u00e9d\u00e9s (au choix)": [
+                "GEDP912 : Op\u00e9rations unitaires et proc\u00e9d\u00e9s de s\u00e9paration, Approche exp\u00e9rimentale - Units operations and separation processes, experimental approach"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Sebastien Monnet",
+        "mail": "sebastien.monnet@univ-smb.fr",
+        "cours": {
+            "UE601 : Passerelle vers le milieu professionnel": [
+                "PROJ601 : Stage D\u00e9couverte du milieu professionnel - Internship Discovery of the Professional Environment"
+            ],
+            "UE001 : Stage Ing\u00e9nieur": [
+                "PROJ002 : Stage Ing\u00e9nieur - Engineering Internship",
+                "PROJ001 : Stage Ing\u00e9nieur - Internship"
+            ],
+            "UE802 : Stage": [
+                "PROJ801 : Stage Assistant ing\u00e9nieur - Engineering Assistant Internship"
+            ],
+            "UE603 : Environnement et Applications": [
+                "INFO632w : Syst\u00e8mes d\u2019exploitation et Virtualisation - Operating systems and Virtualization"
+            ],
+            "UE604 : Environnement et applications": [
+                "INFO632 : Syst\u00e8mes d\u2019exploitation et Virtualisation - Operating systems and Virtualization"
+            ],
+            "UE604 : Passerelle vers le milieu professionnel": [
+                "PROJ601w : Stage D\u00e9couverte du milieu professionnel - Internship Discovery of the Professional Environment"
+            ],
+            "UE702 : Informatique et Conception II": [
+                "PROJ731w : Flux de Donn\u00e9es et Acc\u00e8s Concurrents - Data stream and Concurrency"
+            ],
+            "UE703 : Informatique et Conception": [
+                "PROJ731 : Flux de Donn\u00e9es et Acc\u00e8s Concurrents - Data stream and Concurrency"
+            ],
+            "UE802 : Informatique et Conception III": [
+                "INFO833w : Syst\u00e8mes distribu\u00e9s \u00e0 large \u00e9chelle - Large-scale distributed systems"
+            ],
+            "UE804 : Informatique et Conception": [
+                "INFO833 : Syst\u00e8mes distribu\u00e9s \u00e0 large \u00e9chelle - Large-scale distributed systems"
+            ],
+            "UE902 : Optimisation et HPC": [
+                "INFO931 : Optimisation et aide \u00e0 la d\u00e9cision multicrit\u00e8re - Optimization and multicriteria decision aiding",
+                "INFO932 : Calcul haute performance et Cloud Computing - High-Performance Computing and Cloud Computing"
+            ],
+            "UE803 : Stage": [
+                "PROJ801w : Stage Assistant Ing\u00e9nieur - Engineering assistant internship"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Madjid Boutemeur",
+        "mail": "madjid.boutemeur@univ-smb.fr",
+        "cours": {
+            "UE604 : Conception m\u00e9canique - m\u00e9catronique": [
+                "EASI651 : Fonctions et composants pour l'\u00e9lectronique - Functions and Component for Electronics"
+            ],
+            "UE702 : Conception m\u00e9canique , m\u00e9catronique et composite 1": [
+                "EASI752 : Fonctions et composants pour l'\u00e9lectronique (parcours MMT) - Electronic components and functions (option in Mechanics)"
+            ],
+            "UE602 : Signal, Syst\u00e8me et Image": [
+                "EEATS631 : Electronique - Electronics"
+            ],
+            "UE701 : Sciences de l'ing\u00e9nieur IAI2": [
+                "EASI741w : Electronique d\u2019instrumentation : Notions essentielles pour l\u2019ing\u00e9nieur - Electronics for instrumentation: Basic essentials for engineers"
+            ],
+            "": [
+                "EEATS 912 : Instrumentation Embarqu\u00e9e -"
+            ],
+            "UE702 : Electronique, automatique et apprentissage par projet": [
+                "PACI741 : Electronique d'instrumentation : notions essentielles pour l'ing\u00e9nieur - Electronics for instrumentation: Basic for engineers"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Jean-Jacques Vinurel",
+        "mail": "jean-jacques.vinurel@univ-savoie.fr",
+        "cours": {
+            "UE1 : MM-IM-MT": [
+                "MATH751 : Probabilit\u00e9s- statistiques - Probability and Statistics"
+            ],
+            "UE601 : Physique appliqu\u00e9e et Math\u00e9matiques": [
+                "MATH631 : Math\u00e9matiques II - Mathematics II for engineers",
+                "MATH632 : Probabilit\u00e9s statistiques - Probability and Statistics"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Vincent Cliville",
+        "mail": "vincent.cliville@univ-savoie.fr",
+        "cours": {
+            "UE1 : MM-IM-MT": [
+                "MGM752b : Gestion de production - Quality and Operations Management level 1"
+            ],
+            "": [
+                "MGM 904 : S\u00fbret\u00e9 de fonctionnement -",
+                "MGM 595 : Industrialisation - proc\u00e9d\u00e9s de r\u00e9alisation des bruts -",
+                "MGM 596 : Etude de cas et visite entreprise -",
+                "MGM 991 : Performance industrielle -",
+                "MGM 993 : S\u00fbret\u00e9 de fonctionnement, s\u00e9curit\u00e9 -"
+            ],
+            "UE903 : Syst\u00e8mes m\u00e9catroniques, syst\u00e8mes de production : conception et optimisation (Parcours MMT)": [
+                "MECA956 : Gestion de production avanc\u00e9e - Advanced Management of Production"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Anne-Cecile Grillet",
+        "mail": "anne-cecile.grillet@univ-savoie.fr",
+        "cours": {
+            "UE1 : MM-MC": [
+                "CHIM755b : Chimie macromol\u00e9culaire 1 - Macrolecular chemistry 1"
+            ],
+            "UE701 : Sciences de l'ing\u00e9nieur MM3": [
+                "CHIM755 : Chimie macromol\u00e9culaire 1 (parcours MC) - Macromolecular chemistry 1 (option in Materials)",
+                "MATE755 : Mat\u00e9riaux \u00e0 propri\u00e9t\u00e9s sp\u00e9cifiques - Smart Materials"
+            ],
+            "UE702 : Conception m\u00e9canique , m\u00e9catronique et composite 1": [
+                "MATE752 : Propri\u00e9t\u00e9s des mat\u00e9riaux polym\u00e8res 1 (parcours MC) - Polymers properties 1 (option in Materials)"
+            ],
+            "UE801 : Syst\u00e8me, Production et Qualit\u00e9": [
+                "MATE851 : Propri\u00e9t\u00e9s des mat\u00e9riaux polym\u00e8res 2 (parcours MC) - Polymer properties 2 (option in Materials)"
+            ],
+            "": [
+                "MATE 902 : M\u00e9thodes de contr\u00f4le -"
+            ],
+            "UE901 : Outils sp\u00e9cifiques au parcours MC": [
+                "CHIM953 : Chimie macromol\u00e9culaire 2 - Macromolecular chemistry 2",
+                "MATE951 : M\u00e9thodes de contr\u00f4le - Methods of control"
+            ],
+            "UE903 : Production Composite": [
+                "MATE953 : M\u00e9thodes instrumentales - Instrumental methods"
+            ],
+            "UE703 : El\u00e9ments et production": [
+                "MATE751 : Mat\u00e9riaux Durables (parcours MC) - Durable Materials (option in Materials)",
+                "MATE755a : Mat\u00e9riaux \u00e0 propri\u00e9t\u00e9s sp\u00e9cifiques - Material with specific properties"
+            ],
+            "UE704 : Conception des mat\u00e9riaux composites (Parcours MC)": [
+                "MATE752 : Synth\u00e8se et propri\u00e9t\u00e9s des polym\u00e8res - Synthesis and proerties of Polymers"
+            ],
+            "UE804 : Conception des mat\u00e9riaux composites (Parcours MC)": [
+                "MATE854 : Synth\u00e8se et propri\u00e9t\u00e9s des polym\u00e8res - Synthesis and properties of polymers"
+            ],
+            "UE903 : Fabrication et mise en \u0153uvre composite (Parcours MC)": [
+                "MATE953a : M\u00e9thodes instrumentales - Instrumental Methods"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Jacques Ohayon",
+        "mail": "jacques.ohayon@univ-savoie.fr",
+        "cours": {
+            "UE1 : MM-MC": [
+                "MATE754b : Rh\u00e9ologie et comportement visco\u00e9lastique des mat\u00e9riaux - Rheology and viscoelastic behavior of materials"
+            ],
+            "UE3 : MM-MC": [
+                "MGM756b : M\u00e9canique des milieux anisotropes - Mechanics of anisotropic materials"
+            ],
+            "UE702 : Conception m\u00e9canique , m\u00e9catronique et composite 1": [
+                "MECA751 : M\u00e9canique des milieux anisotropes (Parcours MC) - Mechanics of anisotropic materials (option in Materials)"
+            ],
+            "UE703 : Production et Qualit\u00e9": [
+                "MATE754 : Rh\u00e9ologie (parcours MC) - Rheology (option in Materials)"
+            ],
+            "UE802 : Conception m\u00e9canique, m\u00e9catronique et composite 2": [
+                "MECA854 : Calcul de structure - MEF Dynamique (parcours MC) - Structural analysis: Finite element methods for dynamics (option in Materials)"
+            ],
+            "UE702 : Sciences de l'ing\u00e9nieur": [
+                "MECA751a : M\u00e9canique des milieux anisotropes (parcours MC) - Mechanics of anisotropic materials (option in Materials)"
+            ],
+            "UE804 : Conception des mat\u00e9riaux composites (Parcours MC)": [
+                "MECA854 : M\u00e9canique des fluides - Rh\u00e9ologie - Fluid mechanics and Rheology"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Alain Heron",
+        "mail": "alain.heron@univ-smb.fr",
+        "cours": {
+            "UE701 : Passerelle vers le milieu professionnel": [
+                "LANG700a : Soutien : Anglais -"
+            ],
+            "UE503 : Passerelle vers le milieu professionnel": [
+                "LANG500z : Soutien : Anglais - Tutoring in English",
+                "LANG501z : Anglais - English"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Vincent Chauvet",
+        "mail": "vincent.chauvet@univ-savoie.fr",
+        "cours": {
+            "UE701 : Passerelle vers le milieu professionnel": [
+                "SHES701 : Th\u00e9orie des Organisations - Organization theory"
+            ],
+            "UE804 : Passerelle vers le milieu professionnel": [
+                "SHES801 : Strat\u00e9gie d'entreprise - Corporate strategy"
+            ],
+            "": [
+                "SHES 901 : Management - Techniques de recherche d'emploi -",
+                "SHES 941 : M\u00e9thode d'intervention en entreprise -",
+                "SHES 942 : M\u00e9thode de d\u00e9cision et cha\u00eene de valeur -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Carole Mislin",
+        "mail": "carole.mislin@univ-savoie.fr",
+        "cours": {
+            "UE701 : Passerelle vers le milieu professionnel": [
+                "SHES701bis : Communication - Communcation",
+                "SHES703 : Ressources et dynamique professionnelles - Professional resources and dynamics"
+            ],
+            "UE704 : Passerelle vers le milieu professionnel": [
+                "SHES703w : Ressources et dynamique professionnelles - Professional resources and dynamics"
+            ],
+            "UE804 : Passerelle vers le milieu professionnel": [
+                "SHES801bis : Communication - Communication"
+            ],
+            "": [
+                "SHES 901 : Management - Techniques de recherche d'emploi -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Yannick Mugnier",
+        "mail": "yannick.mugnier@univ-smb.fr",
+        "cours": {
+            "UE701 : Sciences de l'ing\u00e9nieur MM3": [
+                "MATE755 : Mat\u00e9riaux \u00e0 propri\u00e9t\u00e9s sp\u00e9cifiques - Smart Materials"
+            ],
+            "UE703 : El\u00e9ments et production": [
+                "MATE755a : Mat\u00e9riaux \u00e0 propri\u00e9t\u00e9s sp\u00e9cifiques - Material with specific properties"
+            ],
+            "UE601 : Physique appliqu\u00e9e et Math\u00e9matiques": [
+                "PHYS631 : Optique appliqu\u00e9e et transmission optique - Applied optics and optical waveguides",
+                "PHYS642w : Optique appliqu\u00e9e et transmission optique - Applied optics and optical waveguiding"
+            ],
+            "": [
+                "PHYS 911 : Surfaces/couches minces -"
+            ],
+            "UE602 : Sciences appliqu\u00e9es et apprentissage par projet": [
+                "PACI642 : Optique appliqu\u00e9e et transmission optique - Applied optics and optical waveguiding"
+            ],
+            "UE902 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "MATE992 : Mat\u00e9riaux intelligents (Parcours CM) - Smart Materials"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Michel Cuny",
+        "mail": "michel.cuny@univ-savoie.fr",
+        "cours": {
+            "UE702 : Conception m\u00e9canique , m\u00e9catronique et composite 1": [
+                "EASI751 : Actionneurs Electriques (parcours MMT) - Electrical Actuators (option in Mechanics)"
+            ],
+            "UE803 : Stage": [
+                "PROJ801-1 : Stage Assistant Ing\u00e9nieur - Engineering assistant internship"
+            ],
+            "UE901 : Outils sp\u00e9cifiques au parcours MMT": [
+                "EASI952 : Syst\u00e8mes \u00e0 commande r\u00e9partie - Automation"
+            ],
+            "UE704 : Composants et application (Parcours MMT)": [
+                "EASI751a : Actionneurs \u00e9lectriques - Electric Actuators"
+            ],
+            "UE602 : Signal, Syst\u00e8me et Image": [
+                "EEATS633 : Bases pour syst\u00e8mes \u00e9v\u00e9nementiels - Control : Discrete-Event Systems Cases"
+            ],
+            "UE801 : Automatique et Image": [
+                "EASI843w : Automatisation d\u00e9centralis\u00e9e - Distributed Automation"
+            ],
+            "": [
+                "EEATS 922 : Supervision industrielle -"
+            ],
+            "UE803 : Mesures, instrumentation et pilotage de syst\u00e8mes": [
+                "EASI843 : Automatisation d\u00e9centralis\u00e9e - Decentralized automation"
+            ],
+            "UE601 : Formation Scientifique": [
+                "EASI690 : Les bases de l'\u00e9lectricit\u00e9 & motorisation \u00e9lectrique - Electrical engineering"
+            ],
+            "UE901 : Formation Scientifique": [
+                "EASI990 : Automatique des syst\u00e8mes \u00e0 \u00e9v\u00e9nements discrets - Automation"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Lamia Berrah",
+        "mail": "lamia.berrah@univ-smb.fr",
+        "cours": {
+            "UE703 : Production et Qualit\u00e9": [
+                "MECA752 : Gestion de Production et Qualit\u00e9 - Quality and Operations Management level 1"
+            ],
+            "": [
+                "MGM 903 : Performance industrielle -"
+            ],
+            "UE901 : Outils sp\u00e9cifiques au parcours MMT": [
+                "MECA954 : Option 2 : Performance Industrielle - Industrial performance"
+            ],
+            "UE903 : Production m\u00e9canique et m\u00e9catronique": [
+                "MECA962 : Gestion de production approfondie - Operations Management level 2"
+            ],
+            "UE704 : Composants et application (Parcours MMT)": [
+                "MECA752 : Gestion de production (au choix) - Production Management"
+            ],
+            "UE903 : Syst\u00e8mes m\u00e9catroniques, syst\u00e8mes de production : conception et optimisation (Parcours MMT)": [
+                "MECA959 : Usine num\u00e9rique (au choix) - Digital Plant",
+                "MECA960 : Performance industrielle (au choix) - Industrial Performance"
+            ],
+            "UE703 : El\u00e9ments et production": [
+                "MECA651 : Gestion de production et qualit\u00e9 - Production Management and Quality"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Bernard Riveill Reydet",
+        "mail": "bernard.riveill-reydet@univ-smb.fr",
+        "cours": {
+            "UE703 : Production et Qualit\u00e9": [
+                "MECA752 : Gestion de Production et Qualit\u00e9 - Quality and Operations Management level 1"
+            ],
+            "": [
+                "MGM 902 : Proc\u00e9d\u00e9s de fabrication -",
+                "MGM 906 : Usinage num\u00e9rique -",
+                "MGM 907 : Programmation des machines outils -",
+                "MGM 594 : Industrialisation - usinage -",
+                "MGM 691 : Outils statistiques, MSP, 6 sigma -",
+                "MGM 992 : Fabrication Assist\u00e9e par Ordinateur -"
+            ],
+            "UE901 : Outils sp\u00e9cifiques au parcours MMT": [
+                "MECA952 : Option 2 : Usinage num\u00e9rique - Numerical Machining"
+            ],
+            "UE903 : Production m\u00e9canique et m\u00e9catronique": [
+                "MECA951 : Proc\u00e9d\u00e9s de fabrication - Manufacturing processes"
+            ],
+            "UE703 : Ecologie industrielle et territoriale": [
+                "SHES721 : Gestion de la production, de la qualit\u00e9 et des flux - Production managment and Quality and Workflow"
+            ],
+            "UE704 : Composants et application (Parcours MMT)": [
+                "MECA757 : Usinage num\u00e9rique (au choix) - Digital Machining"
+            ],
+            "UE804 : Conception m\u00e9canique et m\u00e9catronique (Parcours MMT)": [
+                "MECA857 : Usinage num\u00e9rique (au choix) - Digital Machining",
+                "MECA858 : Proc\u00e9d\u00e9s de fabrication (au choix) - Production processes"
+            ],
+            "UE502 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "MECA594 : Industrialisation - Usinage -",
+                "MECA596 : Etudes de cas - Visites d'entreprises -"
+            ],
+            "UE602 : M\u00e9thodologie de l'ing\u00e9nieur": [
+                "MECA691 : Outils statistiques - MSP -"
+            ],
+            "UE902 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "MECA 992 : Fabrication Assist\u00e9e par Ordinateur - Simulation de flux -",
+                "MECA992 : Fabrication assist\u00e9e par ordinateur - Simulation de flux (parcours GI) -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Adrien Badel",
+        "mail": "adrien.badel@univ-smb.fr",
+        "cours": {
+            "UE801 : Syst\u00e8me, Production et Qualit\u00e9": [
+                "EASI851 : Auto Continue - Vibration (parcours MMT) - Continuous-time Systems, Vibrations (option in Mechanics)"
+            ],
+            "UE902 : Conception m\u00e9canique et m\u00e9catronique": [
+                "EASI951 : Syst\u00e8mes \u00e9chantillonn\u00e9s - Sampled time Control"
+            ],
+            "UE804 : Conception m\u00e9canique et m\u00e9catronique (Parcours MMT)": [
+                "EASI851 : Automatique: analyse et commande de syst\u00e8mes continus - Automatics: Analysis and Monitoring of Continuous Systems",
+                "EASI853 : Automatique: analyse et commande de syst\u00e8mes \u00e9chantillonn\u00e9s (au choix) - Automatics: Analysis and Discrete-time Systems"
+            ],
+            "UE903 : Syst\u00e8mes m\u00e9catroniques, syst\u00e8mes de production : conception et optimisation (Parcours MMT)": [
+                "EASI941b : Syst\u00e8mes communicants, capteurs communicants (au choix) - Communicating Sytems, Communicating Sensors",
+                "MECA994b : Mod\u00e9lisation et pilotage de syst\u00e8mes m\u00e9catroniques (au choix) - Modeling and Control of Mechatronic Systems"
+            ],
+            "UE602 : Signal, Syst\u00e8me et Image": [
+                "EEATS632 : Stabilit\u00e9 et contr\u00f4le des syst\u00e8mes dynamiques - Stability and Control of Dynamic Systems"
+            ],
+            "UE901 : Sciences de l'ing\u00e9nieur IAI4": [
+                "EASI941w : Syst\u00e8mes communicants, capteurs communicants - Wireless systems, wireless sensors"
+            ],
+            "UE903 : Apprentissage par projet, automatique et supervision": [
+                "EASI944w : Pilotage avanc\u00e9 de syst\u00e8mes continus - Advanced Control of Continuous Systems"
+            ],
+            "UE903 : Data science et objets communicants": [
+                "EASI941 : Syst\u00e8mes communicants, capteurs communicants - Wireless Systems, Wireless Sensors"
+            ],
+            "UE601 : Formation Scientifique": [
+                "EASI690 : Les bases de l'\u00e9lectricit\u00e9 & motorisation \u00e9lectrique - Electrical engineering"
+            ],
+            "UE902 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "MECA994 : Mod\u00e9lisation, Conception M\u00e9catronique (parcours CM) - Modeling and Design of Mechatronic Systems"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Stephane Marteau",
+        "mail": "stephane.marteau@univ-savoie.fr",
+        "cours": {
+            "UE801 : Syst\u00e8me, Production et Qualit\u00e9": [
+                "EASI852 : SED (parcours MMT) - Automation (option in Mechanics)"
+            ],
+            "": [
+                "EEATS 901 : Commande r\u00e9partie de syst\u00e8mes (Pratique) -",
+                "EEATS 924 : Optimisation II -"
+            ],
+            "UE503 : Sciences de l'ing\u00e9nieur IDU1": [
+                "EASI541a : Automatisation - Automation"
+            ],
+            "UE804 : Conception m\u00e9canique et m\u00e9catronique (Parcours MMT)": [
+                "EASI852 : Automatisation - Automation"
+            ],
+            "UE502 : Sciences de l'Ing\u00e9nieur": [
+                "EASI541w : Automatisation - Automation"
+            ],
+            "UE901 : Sciences de l'ing\u00e9nieur IAI4": [
+                "EEATS932 : Supervision - Supervisory, Control and Data Acquisition"
+            ],
+            "UE503 : Sciences de l'Ing\u00e9nieur": [
+                "EASI541 : Automatisation - Automation"
+            ],
+            "UE901 : Formation Scientifique": [
+                "EASI990 : Automatique des syst\u00e8mes \u00e0 \u00e9v\u00e9nements discrets - Automation"
+            ],
+            "UE902 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "MECA 992 : Fabrication Assist\u00e9e par Ordinateur - Simulation de flux -",
+                "MECA992 : Fabrication assist\u00e9e par ordinateur - Simulation de flux (parcours GI) -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Yajing Yan",
+        "mail": "yajing.yan@univ-smb.fr",
+        "cours": {
+            "UE802 : Conception m\u00e9canique, m\u00e9catronique et composite 2": [
+                "INFO851 : Syst\u00e8mes embarqu\u00e9s 1 (parcours MMT) - Embedded Systems (option in Mechanics)"
+            ],
+            "UE801 : Automatique et Image": [
+                "EASI842w : Analyse d'image et vision par ordinateur - Image analysis and computer vision"
+            ],
+            "UE902 : Traitement de l'information": [
+                "PROJ942w : Projet technique traitement de l'information - Information processing project"
+            ],
+            "UE603 : Traitement de l'information et programmation": [
+                "EASI642 : Signal et image : op\u00e9rateurs de base - Signal and Image Processing: basic operators"
+            ],
+            "UE804 : Data science et apprentissage par projet": [
+                "EASI842 : Analyse d'image et vision par ordinateur - Image analysis and computer vision"
+            ],
+            "UE903 : Data science et objets communicants": [
+                "PROJ942 : Projet technique traitement de l'information - Information processing project"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Laurent Tabourot",
+        "mail": "laurent.tabourot@univ-savoie.fr",
+        "cours": {
+            "UE802 : Conception m\u00e9canique, m\u00e9catronique et composite 2": [
+                "MECA852 : Gestion de cycle de vie de produits industriels - Product lifecycle management"
+            ],
+            "UE803 : Syst\u00e8mes, production et qualit\u00e9": [
+                "MECA852a : Gestion du cycle de vie de produits industriels - Life cycle management of industrial products"
+            ],
+            "": [
+                "MGM 690 : M\u00e9canique et thermique -",
+                "MGM 790 : M\u00e9canique, dymanique m\u00e9thodes \u00e9nerg\u00e9tiques -"
+            ],
+            "UE802 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "MATE890 : Mat\u00e9riaux m\u00e9talliques -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Manuel Lagache",
+        "mail": "manuel.lagache@univ-savoie.fr",
+        "cours": {
+            "UE802 : Conception m\u00e9canique, m\u00e9catronique et composite 2": [
+                "MECA855 : M\u00e9canique des structures composites 1 (parcours MC) - Mechanics of composite structures - Part 1 (option in Materials)"
+            ],
+            "": [
+                "MATE 901 : Simulation des proc\u00e9d\u00e9s composites -",
+                "MGM 915 : Projet de conception de pi\u00e8ces composites -"
+            ],
+            "UE902 : Conception composite": [
+                "MECA955 : Projet Conception Composite - Project : design of composite structures"
+            ],
+            "UE704 : Conception des mat\u00e9riaux composites (Parcours MC)": [
+                "MECA751 : M\u00e9canique des structures composites - Mechanics of composite structures"
+            ],
+            "UE903 : Fabrication et mise en \u0153uvre composite (Parcours MC)": [
+                "PROJ951 : Projet Conception Composites : application \u00e0 la Biom\u00e9canique - Design Project of Composites: Biomechanics applications"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Julien Ramousse",
+        "mail": "julien.ramousse@univ-savoie.fr",
+        "cours": {
+            "UE803 : Stage": [
+                "PROJ801-1 : Stage Assistant Ing\u00e9nieur - Engineering assistant internship"
+            ],
+            "UE602 : Ressources naturelles : Exploitation et Interactions": [
+                "ENER621 : Ressources naturelles : Energie et Mati\u00e8re - Natural ressources: Energy and Matter"
+            ],
+            "UE603 : Projets Transferts": [
+                "PROJ621 : APP : Thermodynamique : Etude des flux \u00e9nerg\u00e9tiques - Problem-based learning: Thermodynamics : Energetic flux"
+            ],
+            "UE702 : Energie et traitement des gaz": [
+                "ENER721 : Vecteurs \u00e9nerg\u00e9tiques, qualit\u00e9 et conversion des \u00e9nergies - Energy Carriers, Energy and Quality Conversion"
+            ],
+            "UE803 : G\u00e9nie des proc\u00e9d\u00e9s et Energie": [
+                "ENER821 : Optimisation du stockage et du transfert d'\u00e9nergie - Optimization of Energy Storage and Transfer"
+            ],
+            "UE602 : Sciences de l'Ing\u00e9nieur EBE3": [
+                "ENER611b : Thermodynamique et Echangeurs - Thermodynamics and heat exchangers"
+            ],
+            "UE603 : Sciences de l'ing\u00e9nieur EBE4": [
+                "ENER611w : Thermodynamique - Echangeurs - Thermodynamics and heat exchangers"
+            ],
+            "UE802 : Energies renouvelables (au choix)": [
+                "ENER816 : Syst\u00e8mes \u00e9nerg\u00e9tiques innovants : Pile \u00e0 Combustible & Cog\u00e9n\u00e9ration - Innovative energy systems: Fuel Cells and Cogeneration"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Marie Da Fonseca",
+        "mail": "marie-clemence.da-fonseca@univ-savoie.fr",
+        "cours": {
+            "UE804 : Passerelle vers le milieu professionnel": [
+                "SHES802 : Strat\u00e9gie d'entreprise - Innovation - Corporate strategy - Innovation"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Jean-Jacques Curtelin",
+        "mail": "jean-jacques.curtelin@univ-savoie.fr",
+        "cours": {
+            "": [
+                "IGI 902 : Syst\u00e8mes embarqu\u00e9s -",
+                "IGI 921 : Syst\u00e8mes embarqu\u00e9s II -",
+                "IGI 790 : Bases d'informatique -",
+                "IGI 890 : Algorithmique et bases de donn\u00e9es -",
+                "IGI 990 : Informatique industrielle -"
+            ],
+            "UE804 : Conception m\u00e9canique et m\u00e9catronique (Parcours MMT)": [
+                "INFO851 : Syst\u00e8mes embarqu\u00e9s (au choix) - Embedded systems"
+            ],
+            "UE603 : Appentissage par projet et Informatique 1": [
+                "IGI631 : Algorithmique avanc\u00e9e et programmation concurrente - Advanced algorithms and concurrent programming",
+                "PROJ641w : APP-IAI - Problem Based Learning and Project Based Learning"
+            ],
+            "UE703 : Apprentissage par projet et informatique 2": [
+                "PROJ741w : APP-IAI - Project Based Learning"
+            ],
+            "UE803 : Stage": [
+                "PROJ841w : APP-IAI - Project Based Learning"
+            ],
+            "UE901 : Sciences de l'ing\u00e9nieur IAI4": [
+                "EASI941w : Syst\u00e8mes communicants, capteurs communicants - Wireless systems, wireless sensors"
+            ],
+            "UE903 : Apprentissage par projet, automatique et supervision": [
+                "PROJ943w : APP-IAI - Project Based Learning"
+            ],
+            "UE602 : Sciences appliqu\u00e9es et apprentissage par projet": [
+                "PROJ641 : Apprentissage par Projet - Project Based-Learning"
+            ],
+            "UE702 : Electronique, automatique et apprentissage par projet": [
+                "PROJ741 : Apprentissage par Projet - Project Based Learning"
+            ],
+            "UE804 : Data science et apprentissage par projet": [
+                "PROJ841 : Apprentissage par projet - Project Based Learning"
+            ],
+            "UE902 : Automatique et apprentissage par projet": [
+                "PROJ943 : Apprentissage par projet - Project based-Learning"
+            ],
+            "UE802 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "EASI890 : Syst\u00e8mes embarqu\u00e9s (Parcours CM) - Embedded Systems"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Marc Marzano",
+        "mail": "marc.marzano@univ-savoie.fr",
+        "cours": {
+            "": [
+                "MATE 903 : Mise en \u0153uvre des mat\u00e9riaux composites 2 -"
+            ],
+            "UE901 : Outils sp\u00e9cifiques au parcours MC": [
+                "MATE952b : Mise en oeuvre des mat\u00e9riaux composites 2 - Composite Materials : Implementation"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Christine Galez",
+        "mail": "christine.galez@univ-savoie.fr",
+        "cours": {
+            "": [
+                "MATE 908 : Mat\u00e9riaux : propri\u00e9t\u00e9s sp\u00e9cifiques et mod\u00e8les de comportement -",
+                "MATE 911 : Synth\u00e8se et mat\u00e9riaux avanc\u00e9s -"
+            ],
+            "UE502 : Sciences de l'Ing\u00e9nieur": [
+                "PHYS541w : Propri\u00e9t\u00e9s des Mat\u00e9riaux - Materials properties"
+            ],
+            "UE503 : Sciences de l'Ing\u00e9nieur": [
+                "PHYS541 : Propri\u00e9t\u00e9s des mat\u00e9riaux - Material properties"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Serge Samper",
+        "mail": "serge.samper@univ-savoie.fr",
+        "cours": {
+            "": [
+                "MGM 905 : Mod\u00e9lisation des m\u00e9canismes -",
+                "MGM 791 : Dimensionnement des structures -",
+                "MGM 890 : M\u00e9canique des fluides, dynamique des structures -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Philippe Thore",
+        "mail": "philippe.thore@univ-savoie.fr",
+        "cours": {
+            "": [
+                "MGM 913 : Comportements extr\u00eames -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Guillaume Ginolhac",
+        "mail": "guillaume.ginolhac@univ-savoie.fr",
+        "cours": {
+            "UE901 : Outils sp\u00e9cifiques au parcours MMT": [
+                "INFO951 : Option 1 : Syst\u00e8mes embarqu\u00e9s 2 - Embedded Systems 2"
+            ],
+            "UE904 : Passerelle vers le milieu professionnel": [
+                "PROJ901w : Projet Recherche et D\u00e9veloppement - R and D Project"
+            ],
+            "UE901 : Passerelle vers le milieu professionnel": [
+                "PROJ901 : Projet Recherche et D\u00e9veloppement - R and D Project"
+            ],
+            "UE701 : Sciences de l'ing\u00e9nieur IAI2": [
+                "EASI742w : Signaux al\u00e9atoires - Random Signals",
+                "EEATS742 : Signaux al\u00e9atoires -"
+            ],
+            "UE703 : Apprentissage par projet et informatique 2": [
+                "INFO741w : Syst\u00e8mes embarqu\u00e9s 1 - Embedded Systems and Operating Systems"
+            ],
+            "UE901 : Sciences de l'ing\u00e9nieur IAI4": [
+                "INFO941w : Syst\u00e8mes embarqu\u00e9s 2 - Embedded Systems 2"
+            ],
+            "UE703 : Signaux et syst\u00e8mes num\u00e9riques": [
+                "EASI741 : Signaux al\u00e9atoires - Random Signals",
+                "INFO741 : Syst\u00e8mes embarqu\u00e9s - Embedded systems"
+            ],
+            "UE903 : Data science et objets communicants": [
+                "INFO941 : Syst\u00e8mes embarqu\u00e9s et programmation concurrente - Embedded Systems and Concurrent Computing"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Luc Marechal",
+        "mail": "luc.marechal@univ-smb.fr",
+        "cours": {
+            "UE901 : Outils sp\u00e9cifiques au parcours MMT": [
+                "MECA953 : Option 1 : Robotique - Robotics"
+            ],
+            "UE502 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "MECA599 : Projets transverses (Parcours CM) - Mutiphysics systems analysis"
+            ],
+            "UE901 : Formation Scientifique": [
+                "INFO990 : Informatique industrielle / Robotique -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "David Gibus",
+        "mail": "david.gibus@univ-smb.fr",
+        "cours": {
+            "UE902 : Conception m\u00e9canique et m\u00e9catronique": [
+                "MECA961 : Syst\u00e8mes multiphysiques - Multiphysics modeling and experiments"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Marx Chhay",
+        "mail": "marx.chhay@univ-smb.fr",
+        "cours": {
+            "UE904 : Passerelle vers le milieu professionnel": [
+                "PROJ901w : Projet Recherche et D\u00e9veloppement - R and D Project"
+            ],
+            "UE901 : Passerelle vers le milieu professionnel": [
+                "PROJ901 : Projet Recherche et D\u00e9veloppement - R and D Project"
+            ],
+            "UE703 : Ecologie industrielle et territoriale": [
+                "PROJ722 : Analyse multicrit\u00e8res, outils d'aide \u00e0 la d\u00e9cision - Multi-criteria analysis, decision-aiding tool"
+            ],
+            "UE001 : Mod\u00e9lisation du b\u00e2timent": [
+                "MATH080 : M\u00e9thodes num\u00e9riques appliqu\u00e9es - Apllied Numerical Methods"
+            ],
+            "UE501 : Sciences de l'Ing\u00e9nieur": [
+                "MECA581 : M\u00e9canique des Fluides - Fluids mechanics"
+            ],
+            "UE502 : Sciences de l'Ing\u00e9nieur": [
+                "MECA511z : M\u00e9canique des fluides - Fluid mechanics"
+            ],
+            "UE702 : Outils pour l'ing\u00e9nieur": [
+                "MATH711 : M\u00e9thodes num\u00e9riques pour l'ing\u00e9nieur - Numerical Methods for Engineers"
+            ],
+            "UE901 : Mod\u00e9lisation \u00e9nerg\u00e9tique et environnementale des syst\u00e8mes (au choix)": [
+                "ENER912 : Outils num\u00e9riques pour l'\u00e9nergie - Numerical tools (CFD and System analysis)"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Muriel Schriver",
+        "mail": "muriel.schriver@univ-smb.fr",
+        "cours": {
+            "UE904 : Passerelle vers le milieu professionnel": [
+                "SHES901w : Technique de management - Management"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Gilles Fraisse",
+        "mail": "gilles.fraisse@univ-smb.fr",
+        "cours": {
+            "UE503 : Sciences de l'Ing\u00e9nieur": [
+                "ENER511 : Transferts Thermiques - Heat Transfer"
+            ],
+            "UE703 : Energ\u00e9tique du b\u00e2timent": [
+                "GECH714 : Thermique du b\u00e2timent - Thermal performance of the Building"
+            ],
+            "UE502 : Sciences du B\u00e2timent": [
+                "ENER580 : Transferts thermiques - Heat exchanges"
+            ],
+            "UE502 : Sciences de l'Ing\u00e9nieur": [
+                "ENER511z : Transferts de chaleur - Heat transfer"
+            ],
+            "UE703 : Energ\u00e9tique appliqu\u00e9e": [
+                "GECH714 : Thermique du B\u00e2timent - Building Heat Transfer"
+            ],
+            "": [
+                "ENER 903 : Outils logiciels pour l'\u00e9nergie -",
+                "ENER 906 : Energies renouvelables -",
+                "GCH 905 : Montage d'op\u00e9rations de construction -",
+                "GDP 904 : Traitement de l'air, eau et sols - M\u00e9thodes num\u00e9riques pour l'ing\u00e9nieur -"
+            ],
+            "UE901 : Mod\u00e9lisation \u00e9nerg\u00e9tique et environnementale des syst\u00e8mes (au choix)": [
+                "ENER912b : Outils num\u00e9riques pour l'\u00e9nergie - Numerical tools (CFD and System analysis)"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Christian Ruyer Quil",
+        "mail": "christian.ruyer-quil@univ-smb.fr",
+        "cours": {
+            "UE503 : Sciences de l'Ing\u00e9nieur": [
+                "MECA511 : M\u00e9canique des Fluides - Fluid Mechanics"
+            ],
+            "UE803 : Syst\u00e8mes \u00e9nerg\u00e9tiques (au choix)": [
+                "ENER812 : Conception de r\u00e9seaux fluides - Design fluid networks"
+            ],
+            "UE805 : Conception & Etudes": [
+                "GECH815 : M\u00e9thodes num\u00e9riques - Numerical Method"
+            ],
+            "UE701 : Sciences Environnementales (au choix)": [
+                "ENER711 : Combustion - Combustion",
+                "ENER711-2 : Combustion - Combustion"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Amen Agbossou",
+        "mail": "amen.agbossou@univ-smb.fr",
+        "cours": {
+            "UE503 : Sciences de l'Ing\u00e9nieur": [
+                "MECA512 : M\u00e9canique appliqu\u00e9e - Mechanics"
+            ],
+            "UE602 : Sciences de l'Ing\u00e9nieur": [
+                "MATE611 : Mat\u00e9riaux de construction - Building Materials"
+            ],
+            "UE603 : Ing\u00e9nierie et organisation de la construction": [
+                "GECH613 : M\u00e9canique des structures - Structural Mechanics"
+            ],
+            "UE902 : Conception & Etudes": [
+                "GECH911 : M\u00e9canique des structures avanc\u00e9e - Advanced Structural Mechanics"
+            ],
+            "UE501 : Sciences de l'Ing\u00e9nieur": [
+                "MECA580 : M\u00e9canique Appliqu\u00e9e - Applied mechanics"
+            ],
+            "UE502 : Sciences du B\u00e2timent": [
+                "MATE580 : Mat\u00e9riaux de construction - Building Materials",
+                "MECA582 : M\u00e9canique des structures - Structural Mechanics"
+            ],
+            "UE901 : Ing\u00e9nierie de la construction": [
+                "GECH982 : M\u00e9canique des structures avanc\u00e9e - Advanced Structural Mechanics"
+            ],
+            "UE502 : Sciences de l'Ing\u00e9nieur": [
+                "MECA501z : M\u00e9canique appliqu\u00e9e - Applied mechanics"
+            ],
+            "UE601 : Sciences de l'Ing\u00e9nieur EBE2": [
+                "MATE611 : Mat\u00e9riaux - Materials"
+            ],
+            "UE603 : Sciences de l'ing\u00e9nieur EBE4": [
+                "GECH613w : M\u00e9canique des structures - Structural mechanics"
+            ],
+            "UE701 : Ing\u00e9nierie du B\u00e2timent 1 (au choix)": [
+                "GCH711-2 : M\u00e9canique des structures - Structural Mechanics",
+                "GECH711 : M\u00e9canique des structures - Structural Mechanics"
+            ],
+            "": [
+                "MATE 990 : Mat\u00e9riaux plastiques et composites -"
+            ],
+            "UE902 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "MATE 990 : Mat\u00e9riaux plastiques et composites -",
+                "MATE990 : Mat\u00e9riaux platiques & composites -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Catherine Buhe",
+        "mail": "catherine.buhe@univ-smb.fr",
+        "cours": {
+            "UE503 : Sciences de l'Ing\u00e9nieur": [
+                "PROJ580 : APP : Fonctions et technologies du b\u00e2timent - Building Functions and Technologies"
+            ],
+            "UE702 : Ing\u00e9nierie de la construction": [
+                "GECH711 : B\u00e9ton arm\u00e9 - Reinforced Concrete",
+                "GECH782 : B\u00e9ton arm\u00e9 - Reinforced concrete"
+            ],
+            "UE903 : Processus d'organisation d'une op\u00e9ration de construction": [
+                "GECH913 : Cycle de vie d'un projet de construction - Life cycle of a construction project"
+            ],
+            "UE502 : Sciences du B\u00e2timent": [
+                "PROJ580 : APP : Fonctions et technologies du B\u00e2timent - Problem-Based Learning: Building functions and technologies"
+            ],
+            "UE703 : Processus de conception & BIM": [
+                "GECH784 : Gestion d'op\u00e9rations de construction et de patrimoine b\u00e2ti - Construction management and built heritage"
+            ],
+            "UE502 : Sciences de l'Ing\u00e9nieur": [
+                "GECH511z : Fonctions et technologies du b\u00e2timent - Building functions and technologies"
+            ],
+            "UE801 : Ing\u00e9nierie du b\u00e2timent 2 (au choix)": [
+                "GECH811 : B\u00e9ton arm\u00e9 - Reinforced Concrete"
+            ],
+            "UE901 : Ing\u00e9nierie du B\u00e2timent 3 (au choix)": [
+                "GECH912 : B\u00e9ton arm\u00e9 et pr\u00e9contraint - Reinforced and Prestressed Concrete Structures"
+            ],
+            "UE902 : Gestion d'op\u00e9rations de construction et de patrimoine (au choix)": [
+                "GCH914 : Gestion de patrimoine b\u00e2ti - Building management",
+                "GCH915 : Gestion d'op\u00e9ration - Construction Management",
+                "GCH917 : Gestion d'Op\u00e9ration de Construction et du Patrimoine b\u00e2ti -",
+                "GECH914 : Gestion d'op\u00e9ration de construction et de patrimoine b\u00e2ti - Operation management of construction and real estate"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Florine Giraud",
+        "mail": "florine.giraud@univ-smb.fr",
+        "cours": {
+            "UE602 : Sciences de l'Ing\u00e9nieur": [
+                "ENER613 : Energ\u00e9tique et fluides - Energy and Fluids"
+            ],
+            "UE902 : Energ\u00e9tique du b\u00e2timent": [
+                "ENER982 : Autres \u00e9nergies renouvelables - Renewable Energies"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Adeline Berthier",
+        "mail": "",
+        "cours": {
+            "UE602 : Sciences de l'Ing\u00e9nieur": [
+                "MATH612 : Donn\u00e9es et Aide \u00e0 la d\u00e9cision - Data and Decision-making Aid"
+            ],
+            "UE501 : Sciences de l'Ing\u00e9nieur": [
+                "MATH580 : Remise \u00e0 niveau - Refresher training course",
+                "MATH581 : Math\u00e9matiques - Mathematics"
+            ],
+            "UE601 : Sciences de l'Ing\u00e9nieur": [
+                "MATH680 : Math\u00e9matiques - Mathematics"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Bernard Souyri",
+        "mail": "bernard.souyri@univ-smb.fr",
+        "cours": {
+            "UE603 : Ing\u00e9nierie et organisation de la construction": [
+                "PROJ611 : APP : Acteurs du B\u00e2timent - Project-based learning: Building Professionals"
+            ],
+            "UE804 : Energies renouvelables et environnement (au choix)": [
+                "ENER814 : Enjeux \u00e9nerg\u00e9tiques, \u00e9conomiques, et environnementaux - Environmental, economic and energy Issues"
+            ],
+            "": [
+                "SHES982 : Droit de la construction - Construction Law",
+                "ENER 904 : Solaire thermique -",
+                "ENER 908 : TP Energies renouvelables -",
+                "ENER907 : Energie Eolienne et hydraulique -",
+                "SHES 904 : Economie de l'\u00e9nergie -"
+            ],
+            "UE603 : SHES-Langues": [
+                "DDRS680 : D\u00e9veloppement durable - Sustainable Development"
+            ],
+            "UE802 : Ing\u00e9nierie de la construction": [
+                "GECH881 : Gestion de la r\u00e9alisation - Site management"
+            ],
+            "UE803 : Conception/Etudes & BIM": [
+                "SHES881 : Economie de l'\u00e9nergie - Energy Saving"
+            ],
+            "UE904 : Travail en entreprise": [
+                "ENTR980 : Missions en entreprise - Industrial training",
+                "PROJ980 : Focus : Droit et \u00e9conomie de projet - Law and economy of project"
+            ],
+            "UE002 : Entreprise": [
+                "ENTR080 : Missions en entreprise - Industrial training",
+                "PROJ080 : Projet Ing\u00e9nieur - Engineer project"
+            ],
+            "UE701 : Ing\u00e9nierie du B\u00e2timent 1 (au choix)": [
+                "GECH713 : Acoustique & Eclairage du B\u00e2timent - Building acoustics & Lighting design of buildings"
+            ],
+            "UE702 : Outils pour l'ing\u00e9nieur": [
+                "SHES712 : D\u00e9veloppement Durable - Sustainable Development"
+            ],
+            "UE802 : Energies renouvelables (au choix)": [
+                "ENER814 : Applications \u00e9nerg\u00e9tiques - Applied Energy",
+                "ENER817 : Applications Energies Renouvelables : Bois Energie & Pompes \u00e0 Chaleur - Renewable energy systems : Wood energy - Geothermal and Air heat pumps",
+                "GECH813 : B\u00e2timent et Energie - Energy and buildings"
+            ],
+            "UE901 : Mod\u00e9lisation \u00e9nerg\u00e9tique et environnementale des syst\u00e8mes (au choix)": [
+                "ENER913 : Economie de l'\u00e9nergie - Energy economics and sustainable energy policy",
+                "ENER917 : Energie : enjeux territoriaux, \u00e9conomiques, et environnementaux - Energy economics and sustainable energy policy"
+            ],
+            "UE902 : Gestion d'op\u00e9rations de construction et de patrimoine (au choix)": [
+                "GECH915 : Gestion de la R\u00e9alisation - Site management"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Simon Rouchier",
+        "mail": "simon.rouchier@univ-smb.fr",
+        "cours": {
+            "UE603 : Ing\u00e9nierie et organisation de la construction": [
+                "PROJ680 : APP : Introduction \u00e0 la maquette num\u00e9rique du b\u00e2timent - Building Modeling - Introduction to CAD-software an BIM"
+            ],
+            "UE604 : Qualit\u00e9 \u00e9nerg\u00e9tique et environnementale des b\u00e2timents": [
+                "GECH611 : G\u00e9nie climatique - HVAC"
+            ],
+            "UE601 : Sciences de l'Ing\u00e9nieur": [
+                "PROJ680 : APP : Introduction \u00e0 la maquette num\u00e9rique du b\u00e2timent - Problem-based learning: Building digital Mock-up"
+            ],
+            "UE701 : Energ\u00e9tique du b\u00e2timent": [
+                "ENER780 : G\u00e9nie Climatique - HVAC"
+            ],
+            "UE602 : Sciences de l'Ing\u00e9nieur EBE3": [
+                "GECH612w : Technologie et Mod\u00e9lisations graphiques - Technical drawing and CAD (Computer-aided design)"
+            ],
+            "UE903 : Projet": [
+                "SHES911 : Droit de la Construction - Construction Law"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Jean-Patrick Plassiard",
+        "mail": "jean-patrick.plassiard@univ-smb.fr",
+        "cours": {
+            "UE702 : Ing\u00e9nierie de la construction": [
+                "GECH712 : M\u00e9canique des structures : conception et mod\u00e9lisation - Structural Mechanics: design and modelling",
+                "GECH783 : M\u00e9canique des structures - Structural Mechanics"
+            ],
+            "UE803 : Ing\u00e9nierie de la construction (au choix)": [
+                "GECH812 : Construction m\u00e9tallique - Metal Construction"
+            ],
+            "UE804 : Ing\u00e9nierie des constructions-3 (au choix)": [
+                "GECH814 : Conduite de chantier - Construction-site supervision"
+            ],
+            "UE904 : Energies renouvelables et Ecoconstruction": [
+                "GECH914 : Construction bois - Wooden construction"
+            ],
+            "UE001 : Mod\u00e9lisation du b\u00e2timent": [
+                "GECH080 : Mod\u00e9lisation des structures - Structures Modelling"
+            ],
+            "UE602 : Sciences du B\u00e2timent": [
+                "GECH681 : M\u00e9canique des structures - Structural Mechanics"
+            ],
+            "UE803 : Conception/Etudes & BIM": [
+                "PROJ880 : APP : Conception/Etudes et BIM - Project base learning: Engineering studies/design and BIM"
+            ],
+            "UE901 : Ing\u00e9nierie de la construction": [
+                "GECH980 : Construction m\u00e9tallique - Metal Construction",
+                "GECH981 : Construction bois - Wood Construction"
+            ],
+            "UE701 : Ing\u00e9nierie du B\u00e2timent 1 (au choix)": [
+                "GCH713 : Structures Bois et M\u00e9tal - Wood and steel structural design",
+                "GECH712 : Conception et mod\u00e9lisation des structures - Structural Engineering"
+            ],
+            "UE802 : Syst\u00e8mes constructifs (au choix)": [
+                "GECH814 : Constructions M\u00e9talliques et Constructions Bois - Wood structures and steel structures"
+            ],
+            "UE901 : Ing\u00e9nierie du B\u00e2timent 3 (au choix)": [
+                "GECH911 : M\u00e9canique des structures avanc\u00e9e - Structural Analysis and Mechanics",
+                "GECH913 : Dynamique des structures et g\u00e9nie parasismique - Structural Dynamics and Earthquake Engineering"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Noemie Prime",
+        "mail": "noemie.prime@univ-smb.fr",
+        "cours": {
+            "UE702 : Ing\u00e9nierie de la construction": [
+                "GECH713 : G\u00e9otechnique - Geotechnics",
+                "GECH781 : G\u00e9otechnique - Geotechnics"
+            ],
+            "UE804 : Ing\u00e9nierie des constructions-3 (au choix)": [
+                "GECH813 : G\u00e9otechnique et \u00e9coconstruction en terre - Geotechnics and earth construction"
+            ],
+            "UE903 : Processus d'organisation d'une op\u00e9ration de construction": [
+                "SHES911 : Contexte l\u00e9gislatif du b\u00e2timent - Legislative context of building"
+            ],
+            "UE602 : Sciences du B\u00e2timent": [
+                "GECH680 : M\u00e9caniques des sols - Soil Mechanics"
+            ],
+            "UE703 : Processus de conception & BIM": [
+                "PROJ780 : APP : Processus de conception & BIM - Problem-based learning: Design process & BIM"
+            ],
+            "UE903 : SHES-Langues": [
+                "SHES980 : Droit de la construction et Syst\u00e8mes de management (SMQ, SST, Environnement, Energie) - Construction Law and Management Systems"
+            ],
+            "UE702 : Outils pour l'ing\u00e9nieur": [
+                "GECH715 : M\u00e9canique des sols - Soil mechanisms"
+            ],
+            "UE801 : Ing\u00e9nierie du b\u00e2timent 2 (au choix)": [
+                "GECH812 : G\u00e9otechnique - Geotechnics"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Monika Woloszyn",
+        "mail": "monika.woloszyn@univ-smb.fr",
+        "cours": {
+            "UE703 : Energ\u00e9tique du b\u00e2timent": [
+                "GECH715 : G\u00e9nie climatique - HVAC"
+            ],
+            "UE805 : Conception & Etudes": [
+                "PROJ811 : APP : Conception et Etudes - Project-Based Learning: Engineering and Design"
+            ],
+            "UE902 : Conception & Etudes": [
+                "ENER911 : Mod\u00e9lisation b\u00e2timent et syst\u00e8mes \u00e9nerg\u00e9tiques - Building and energy systems modeling"
+            ],
+            "UE001 : Mod\u00e9lisation du b\u00e2timent": [
+                "ENER080 : Mod\u00e9lisation des syst\u00e8mes \u00e9nerg\u00e9tiques - Energy systems modelling"
+            ],
+            "UE701 : Energ\u00e9tique du b\u00e2timent": [
+                "GECH780 : Physique du B\u00e2timent - Building Physics"
+            ],
+            "UE801 : Energ\u00e9tique du b\u00e2timent": [
+                "ENER880 : G\u00e9nie Climatique - HVAC"
+            ],
+            "UE902 : Energ\u00e9tique du b\u00e2timent": [
+                "ENER981 : Mod\u00e9lisation b\u00e2timent et syst\u00e8mes \u00e9nerg\u00e9tiques - Building and energy systems modeling"
+            ],
+            "UE601 : Sciences de l'Ing\u00e9nieur EBE2": [
+                "GECH611w : G\u00e9nie Climatique et Electrom\u00e9canique - HVAC Systems and Electro-mechanics"
+            ],
+            "UE802 : Syst\u00e8mes constructifs (au choix)": [
+                "GECH815 : Physique du B\u00e2timent - Building's Physics"
+            ],
+            "UE901 : Mod\u00e9lisation \u00e9nerg\u00e9tique et environnementale des syst\u00e8mes (au choix)": [
+                "ENER911 : Mod\u00e9lisation des syst\u00e8mes \u00e9nerg\u00e9tiques - Modeling of energy systems for buildings",
+                "ENER911b : Mod\u00e9lisation des syt\u00e8mes \u00e9nerg\u00e9tiques et des \u00e9coulements - Modeling of energy flows and systems for buildings"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Mickael Pailha",
+        "mail": "micka\u00ebl.pailha@univ-smb.fr",
+        "cours": {
+            "UE703 : Energ\u00e9tique du b\u00e2timent": [
+                "GECH716 : R\u00e9glementation thermique et environnementale - Thermal and Environmental Regulations"
+            ],
+            "UE704 : BIM": [
+                "PROJ711 : APP : BIM - Project-based learning: BIM"
+            ],
+            "UE602 : Sciences du B\u00e2timent": [
+                "ENER680 : Thermique du B\u00e2timent - Building Physics"
+            ],
+            "UE801 : Energ\u00e9tique du b\u00e2timent": [
+                "GECH883 : R\u00e8glementation Thermique et Environnementale - Thermal and Environmental Regulations"
+            ],
+            "UE703 : Energ\u00e9tique appliqu\u00e9e": [
+                "GECH719 : G\u00e9nie Climatique - HVAC Systems"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Michel Ambert",
+        "mail": "michel.ambert@univ-smb.fr",
+        "cours": {
+            "UE801 : Passerelle vers le milieu professionnel": [
+                "SHES802 : Syst\u00e8me de Management Int\u00e9gr\u00e9 QSE (Qualit\u00e9 S\u00e9curit\u00e9 Environnement) - Integrated Management System QSE (Quality Safety Environment)"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Pierre Alain Pignolet",
+        "mail": "pierrealain.pignolet@free.fr",
+        "cours": {
+            "UE801 : Passerelle vers le milieu professionnel": [
+                "SHES802 : Syst\u00e8me de Management Int\u00e9gr\u00e9 QSE (Qualit\u00e9 S\u00e9curit\u00e9 Environnement) - Integrated Management System QSE (Quality Safety Environment)"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Anna Lushnikova",
+        "mail": "anna.lushnikova@univ-savoie.fr",
+        "cours": {
+            "UE803 : Ing\u00e9nierie de la construction (au choix)": [
+                "GECH811 : B\u00e9ton arm\u00e9 - Reinforced concrete"
+            ],
+            "UE802 : Ing\u00e9nierie de la construction": [
+                "GECH882 : B\u00e9ton arm\u00e9 - Reinforced Concrete"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Nolwenn Le Pierres",
+        "mail": "nolwenn.le-pierres@univ-smb.fr",
+        "cours": {
+            "UE803 : Syst\u00e8mes \u00e9nerg\u00e9tiques (au choix)": [
+                "ENER811 : Thermodynamique - Thermodynamics"
+            ],
+            "UE902 : Conception & Etudes": [
+                "PROJ911 : APP Projet multitechnique- Conception et \u00e9tudes - Multi-technical project - Design and studies"
+            ],
+            "UE904 : Energies renouvelables et Ecoconstruction": [
+                "ENER913 : Energie Solaire Thermique - Solar Heat Energy"
+            ],
+            "UE701 : Energ\u00e9tique du b\u00e2timent": [
+                "ENER781 : Energ\u00e9tique - Energetics"
+            ],
+            "UE902 : Energ\u00e9tique du b\u00e2timent": [
+                "ENER980 : Energie Solaire Thermique et Photovoltaique - Solar Thermal and Photovoltaic Energy"
+            ],
+            "UE603 : Sciences de l'ing\u00e9nieur EBE4": [
+                "ENER612w : TP Transfert de Chaleur & M\u00e9canique des fluides - Laboratory practical work sessions"
+            ],
+            "UE801 : Energ\u00e9tique (au choix)": [
+                "ENER811 : Energ\u00e9tique - Energetics (advanced thermodynamics and heat transfers)"
+            ],
+            "UE803 : Stage": [
+                "PROJ801a : Stage Assistant Ing\u00e9nieur - Engineering assistant internship"
+            ],
+            "": [
+                "ENER 901 : Contr\u00f4le et optimisation des syst\u00e8mes \u00e9nerg\u00e9tiques -"
+            ],
+            "UE902 : Energies renouvelables 2 (au choix)": [
+                "ENER914 : Solaire Thermique - Solar Heat",
+                "ENER914b : Solaire thermique - Solar thermal energy"
+            ],
+            "UE903 : Projet": [
+                "PROJ911 : Projet Technique et Gestion de Projets - Technical project management",
+                "PROJ911 : Projet Technique - Technical Project"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Christophe Menezo",
+        "mail": "christophe.menezo@univ-smb.fr",
+        "cours": {
+            "UE904 : Energies renouvelables et Ecoconstruction": [
+                "ENER914 : Energie Solaire photovoltaique - Photovoltaic Energy"
+            ],
+            "": [
+                "ENER981 : Energie Solaire Photovoltaique - Photovoltaic Energy",
+                "GCH 904 : Gestion de la r\u00e9alisation -"
+            ],
+            "UE902 : Energies renouvelables 2 (au choix)": [
+                "ENER915 : Solaire Photovoltaique - Solar Photovoltaic Energy"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Laurent Foulloy",
+        "mail": "laurent.foulloy@univ-savoie.fr",
+        "cours": {
+            "UE501 : Sciences de l'Ing\u00e9nieur": [
+                "INFO501z : Num\u00e9ration et Algorithmique - Number representation and algorithm design"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Isabelle Rougier",
+        "mail": "isabelle.rougier@univ-savoie.fr",
+        "cours": {
+            "UE501 : Sciences de l'Ing\u00e9nieur": [
+                "MATH501z : Math\u00e9matiques - Mathematics for engineers",
+                "MATH500z : Soutien : Math\u00e9matiques - Mathematics refresher course"
+            ],
+            "UE601 : Sciences de l'Ing\u00e9nieur EBE2": [
+                "MATH611w : Math\u00e9matiques - Statistics- Decision making aid"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Kave Salamatian",
+        "mail": "kave.salamatian@univ-smb.fr",
+        "cours": {
+            "UE503 : Sciences de l'ing\u00e9nieur IDU1": [
+                "ISOC531 : Soci\u00e9t\u00e9s num\u00e9riques - Digital society"
+            ],
+            "UE603 : Environnement et Applications": [
+                "ISOC631w : Plateformes collaboratives - Collaborative platforms"
+            ],
+            "UE604 : Environnement et applications": [
+                "ISOC631 : Plateformes collaboratives - Collaborative platforms"
+            ],
+            "UE701 : Math\u00e9matiques et Donn\u00e9es": [
+                "INFO731w : S\u00e9curit\u00e9 et Cryptographie - Security and cryptography"
+            ],
+            "UE702 : Informatique et Conception II": [
+                "INFO743bw : R\u00e9seaux et syst\u00e8mes r\u00e9partis - Computer networks and distributed systems"
+            ],
+            "UE702 : Math\u00e9matiques et Donn\u00e9es": [
+                "INFO731 : S\u00e9curit\u00e9 et Cryptographie - Security and cryptography"
+            ],
+            "UE703 : Informatique et Conception": [
+                "INFO743a : R\u00e9seaux et syst\u00e8mes r\u00e9partis - Computer networks and distributed systems"
+            ],
+            "UE703 : Visualisation et Gouvernance": [
+                "ISOC731w : \u00c9conomie et gouvernance de la donn\u00e9e - Economy and data governance"
+            ],
+            "UE704 : Visualisation et gouvernance": [
+                "ISOC731 : \u00c9conomie et gouvernance de la donn\u00e9e - Economy and data governance"
+            ],
+            "UE603 : Appentissage par projet et Informatique 1": [
+                "IGI632 : Communication et r\u00e9seaux - Computer Networks"
+            ],
+            "UE701 : Sciences de l'ing\u00e9nieur IAI2": [
+                "IGI731 : Conception et r\u00e9alisation des logiciels - Software design and development"
+            ],
+            "UE702 : Sciences de l'ing\u00e9nieur IAI3": [
+                "IGI733 : Syst\u00e8mes embarqu\u00e9s - Embedded systems",
+                "INFO743w : R\u00e9seaux et syst\u00e8mes r\u00e9partis - Computer network and distributed systems"
+            ],
+            "UE903 : Apprentissage par projet, automatique et supervision": [
+                "INFO943w : Supervision - Supervision"
+            ],
+            "UE703 : Signaux et syst\u00e8mes num\u00e9riques": [
+                "INFO743 : R\u00e9seaux et syst\u00e8mes r\u00e9partis - Computer network and distributed systems"
+            ],
+            "UE804 : Data science et apprentissage par projet": [
+                "INFO841 : S\u00e9curit\u00e9 des syst\u00e8mes cyber-physiques - Security of cyber-physical systems"
+            ],
+            "UE903 : Data science et objets communicants": [
+                "INFO943 : Internet des objets - Internet of Things"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Ilham Alloui",
+        "mail": "ilham.alloui@univ-smb.fr",
+        "cours": {
+            "UE503 : Sciences de l'ing\u00e9nieur IDU1": [
+                "PROJ531 : Gestion de projets - Project management"
+            ],
+            "UE602 : Informatique et conception I": [
+                "INFO642bw : Bases de donn\u00e9es et technologies web - Databases and Web technologies"
+            ],
+            "UE802 : Informatique et Conception III": [
+                "INFO834w : Bases de donn\u00e9es distribu\u00e9es - Distributed databases."
+            ],
+            "UE804 : Informatique et Conception": [
+                "INFO834 : Bases de donn\u00e9es distribu\u00e9es - Distributed databases."
+            ],
+            "UE603 : Appentissage par projet et Informatique 1": [
+                "INFO642w : Bases de donn\u00e9es et technologies web - Data bases and web technologies"
+            ],
+            "UE702 : Sciences de l'ing\u00e9nieur IAI3": [
+                "IGI732 : Bases de donn\u00e9es - Databases"
+            ],
+            "UE703 : Apprentissage par projet et informatique 2": [
+                "INFO742w : M\u00e9thodes de d\u00e9veloppement logiciel et qualit\u00e9 - Software Development Methods and Quality"
+            ],
+            "": [
+                "IGI 945 : Ing\u00e9nierie dirig\u00e9e par les mod\u00e8les -"
+            ],
+            "UE703 : Signaux et syst\u00e8mes num\u00e9riques": [
+                "INFO742 : M\u00e9thodes de d\u00e9veloppement logiciel et qualit\u00e9 - Software Development Methods and Quality"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Alexandre Bascop",
+        "mail": "alexandre.bascop@univ-smb.fr",
+        "cours": {
+            "UE601 : Math\u00e9matiques et Algorithmique": [
+                "MATH641bw : Math\u00e9matiques II - Mathematics II"
+            ],
+            "UE602 : Math\u00e9matiques et Algorithmique": [
+                "MATH641a : Math\u00e9matiques - Mathematics"
+            ],
+            "UE701 : Math\u00e9matiques et Donn\u00e9es": [
+                "MATH741bw : Probabilit\u00e9s et statistiques - Probability and statistic"
+            ],
+            "UE702 : Math\u00e9matiques et Donn\u00e9es": [
+                "MATH741a : Probabilit\u00e9s et statistiques - Probability and statistic"
+            ],
+            "UE601 : Physique appliqu\u00e9e et Math\u00e9matiques": [
+                "MATH641w : Math\u00e9matiques II - Mathematics for engineers II"
+            ],
+            "UE701 : Sciences de l'ing\u00e9nieur IAI2": [
+                "MATH741w : Probabilit\u00e9s Statistiques - Probability and Statistics"
+            ],
+            "UE602 : Sciences appliqu\u00e9es et apprentissage par projet": [
+                "MATH641 : Math\u00e9matiques - Mathematics"
+            ],
+            "UE703 : Signaux et syst\u00e8mes num\u00e9riques": [
+                "MATH741 : Probabilit\u00e9s - Statistiques - Probability and statistic"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Sylvie Galichet",
+        "mail": "sylvie.galichet@univ-smb.fr",
+        "cours": {
+            "UE601 : Math\u00e9matiques et Algorithmique": [
+                "PROJ631w : Projet Algorithmique - Algorithmic project"
+            ],
+            "UE602 : Math\u00e9matiques et Algorithmique": [
+                "PROJ631 : Projet Algorithmique - Algorithmic project"
+            ],
+            "UE801 : Donn\u00e9es et Aide \u00e0 la D\u00e9cision I": [
+                "DATA832w : Machine Learning 1 - Machine Learning 1",
+                "ISOC831w : Dimension m\u00e9tiers - Business dimension"
+            ],
+            "UE803 : Donn\u00e9es et Aide \u00e0 la D\u00e9cision": [
+                "INFO831 : Informatique d\u00e9cisionnelle - Business-intelligence"
+            ],
+            "UE804 : Informatique et Conception": [
+                "ISOC831 : Dimension m\u00e9tiers - Business dimension"
+            ],
+            "UE902 : Optimisation et HPC": [
+                "INFO931 : Optimisation et aide \u00e0 la d\u00e9cision multicrit\u00e8re - Optimization and multicriteria decision aiding"
+            ],
+            "": [
+                "IGI 922 : Concepts et m\u00e9thodes d'apprentissage automatique -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Sorana Cimpan",
+        "mail": "sorana.cimpan@univ-smb.fr",
+        "cours": {
+            "UE602 : Informatique et conception I": [
+                "INFO641bw : Conception et programmation orient\u00e9e objet - Object-oriented design and Programming I"
+            ],
+            "UE603 : Environnement et Applications": [
+                "PROJ632w : Projet Data Science - Data Science Project"
+            ],
+            "UE603 : Informatique et Conception": [
+                "INFO641a : Conception et Programmation orient\u00e9e objet - Object-oriented design and Programming"
+            ],
+            "UE702 : Informatique et Conception II": [
+                "INFO732w : Comportement et Mod\u00e9lisation Dynamique - Behaviour and dynamic modelling"
+            ],
+            "UE703 : Informatique et Conception": [
+                "INFO732 : Comportement et Mod\u00e9lisation Dynamique - Behaviour and dynamic modelling"
+            ],
+            "UE704 : Visualisation et gouvernance": [
+                "DATA732 : Analyse et visualisation de donn\u00e9es - Data analysis and data visualization"
+            ],
+            "UE603 : Appentissage par projet et Informatique 1": [
+                "IGI641b : Conception et Programmation Orient\u00e9e Objet -",
+                "INFO641w : Conception et programmation orient\u00e9e objet - Object Oriented Design and Programming"
+            ],
+            "UE801 : Automatique et Image": [
+                "IGI831 : Abstraction et Visualisation de l'information (parcours SIL) - Information Abstraction and Visualization"
+            ],
+            "": [
+                "IGI 944 : Architecture logicielle -"
+            ],
+            "UE603 : Traitement de l'information et programmation": [
+                "INFO641 : Conception et programmation orient\u00e9e objet - Object Oriented Design and Programming"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Lionel Valet",
+        "mail": "lionel. valet@univ-smb.fr",
+        "cours": {
+            "UE603 : Informatique et Conception": [
+                "INFO633 : APP - Bases de donn\u00e9es et technologies web - Databases and Web technologies"
+            ],
+            "UE603 : Traitement de l'information et programmation": [
+                "INFO642 : APP : Bases de donn\u00e9es et technologies web - Data bases and web technologies"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Marc Philipe Huget",
+        "mail": "marc-philippe.huget@univ-smb.fr",
+        "cours": {
+            "UE604 : Environnement et applications": [
+                "PROJ632 : Projet Data Science - Data Science Project"
+            ],
+            "UE703 : Visualisation et Gouvernance": [
+                "DATA732w : Analyse et visualisation de donn\u00e9es - Data analysis and data visualization",
+                "INFO734w : D\u00e9veloppement Full Stack - Full Stack Development"
+            ],
+            "UE704 : Visualisation et gouvernance": [
+                "INFO734 : D\u00e9veloppement Full Stack - Full Stack Development"
+            ],
+            "UE801 : Donn\u00e9es et Aide \u00e0 la D\u00e9cision I": [
+                "DATA831w : Big Data - Big Data"
+            ],
+            "UE803 : Donn\u00e9es et Aide \u00e0 la D\u00e9cision": [
+                "DATA831 : Big Data - Big Data",
+                "PROJ831 : Projet Informatique Donn\u00e9es et Usages - Database and use Project"
+            ],
+            "UE803 : Projet et Stage": [
+                "PROJ831w : Projet Informatique Donn\u00e9es et Usages - Database and use Project"
+            ],
+            "UE903 : Donn\u00e9es et Aide \u00e0 la D\u00e9cision II": [
+                "PROJ932 : Projet Data Science - Data Science Project"
+            ],
+            "": [
+                "IGI 942 : Ing\u00e9nierie des interfaces homme-machine -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Emmanuelle Marsat",
+        "mail": "emmanuellemarsat@yahoo.fr",
+        "cours": {
+            "UE604 : Passerelle vers le milieu professionnel": [
+                "SHES602w : Initiation au droit - Introduction to Law"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Florian Prele",
+        "mail": "florian.prele.avocat@gmail.com",
+        "cours": {
+            "UE604 : Passerelle vers le milieu professionnel": [
+                "SHES602w : Initiation au droit - Introduction to Law"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Abdourrahmane M. Atto",
+        "mail": "abdourrahmane.atto@univ-smb.fr",
+        "cours": {
+            "UE701 : Math\u00e9matiques et Donn\u00e9es": [
+                "DATA731w : Mod\u00e9lisation Stochastique - Stochastic modeling"
+            ],
+            "UE702 : Math\u00e9matiques et Donn\u00e9es": [
+                "DATA731 : Mod\u00e9lisation Stochastique - Stochastic modeling"
+            ],
+            "UE801 : Donn\u00e9es et Aide \u00e0 la D\u00e9cision I": [
+                "INFO831w : Informatique d\u00e9cisionnelle - Business-intelligence"
+            ],
+            "UE803 : Donn\u00e9es et Aide \u00e0 la D\u00e9cision": [
+                "INFO831 : Informatique d\u00e9cisionnelle - Business-intelligence"
+            ],
+            "UE602 : Signal, Syst\u00e8me et Image": [
+                "MATH642w : Math\u00e9matiques sp\u00e9cialis\u00e9es - Specialized Mathematics"
+            ],
+            "UE801 : Automatique et Image": [
+                "EASI844w : Mod\u00e8les des syst\u00e8mes \u00e0 \u00e9v\u00e8nements discrets et applications - Models of Discrete Event Systems and Applications"
+            ],
+            "UE902 : Traitement de l'information": [
+                "INFO942w : Apprentissage automatique et fouille de donn\u00e9es - Machine learning and data mining"
+            ],
+            "UE603 : Traitement de l'information et programmation": [
+                "MATH642 : Math\u00e9matiques sp\u00e9cialis\u00e9es - Specialized Mathematics"
+            ],
+            "UE804 : Data science et apprentissage par projet": [
+                "EASI844 : Mod\u00e8les des syst\u00e8mes \u00e0 \u00e9v\u00e8nements discrets et applications - Models of Discrete Event Systems and Applications"
+            ],
+            "UE903 : Data science et objets communicants": [
+                "INFO942 : Apprentissage automatique et fouille de donn\u00e9es - Machine learning and data mining"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Alexandre Benoit",
+        "mail": "alexandre.benoit@univ-smb.fr",
+        "cours": {
+            "UE803 : Donn\u00e9es et Aide \u00e0 la D\u00e9cision": [
+                "DATA832 : Machine Learning - Machine Learning"
+            ],
+            "UE903 : Donn\u00e9es et Aide \u00e0 la D\u00e9cision II": [
+                "DATA931 : Machine Learning - Machine Learning",
+                "ISOC931 : Innovation et Recherche - Research and Innovation"
+            ],
+            "UE701 : Formation Scientifique": [
+                "INFO790 : Bases d'informatique -"
+            ],
+            "UE1 : Formation Scientifique": [
+                "INFO890 : Algorithmique - Bases de donn\u00e9es -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Evelyne Gonze",
+        "mail": "evelyne.gonze@univ-smb.fr",
+        "cours": {
+            "UE503 : Gestion des flux \u00e0 l'\u00e9chelle du territoire": [
+                "GEDP521 : Bilans macroscopiques : Mati\u00e8re et Energie - Balance sheets: Matter and Energy"
+            ],
+            "UE804 : Traitements des effluents": [
+                "GEDP822 : Op\u00e9rations unitaires de traitement des effluents - Unitary Operations of Effluent Treatment",
+                "PROJ822 : APP : Bior\u00e9acteurs et traitement des effluents - Problem-based learning: Bioreactors and Effluent Treatment"
+            ],
+            "UE802 : Apprentissage Par Probl\u00e8mes (au choix)": [
+                "GEDP815 : Traitement des eaux us\u00e9es et impacts environnementaux - Waste water treatment and Environmental impacts"
+            ],
+            "": [
+                "GDP905 : Projet technique -"
+            ],
+            "UE901 : Traitement des eaux et bioproc\u00e9d\u00e9s (au choix)": [
+                "GDP912 : TP sur les op\u00e9rations unitaires de traitement des effluents - Water Treatment Plant",
+                "GEDP911 : Potabilisation des eaux - Production of drinking water",
+                "GEDP913 : Bioproc\u00e9d\u00e9s pour l\u2019environnement - Environmental bioprocess engineering"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Benoit Stutz",
+        "mail": "benoit.stutz@univ-smb.fr",
+        "cours": {
+            "UE603 : Projets Transferts": [
+                "PROJ622 : APP : M\u00e9canique des Fluides - Ecoulement \u00e0 surface libre - Problem-based learning: Fluid Mechanics - Open-channel flows",
+                "PROJ623 : APP : Transferts thermiques - Dimensionnement d'\u00e9changeurs de chaleur - Problem-based learning: Heat Transfer - Dimensioning of the heat exchanger"
+            ],
+            "UE902 : G\u00e9nie des proc\u00e9d\u00e9s et \u00e9nergie": [
+                "ENER921 : Proc\u00e9d\u00e9s \u00e9nerg\u00e9tiques - Energy Processes"
+            ],
+            "UE903 : Valorisation des \u00e9nergies renouvelables": [
+                "ENER922 : Networks and Storage (Ecole d'\u00e9t\u00e9) - Networks and Storage"
+            ],
+            "UE801 : Energ\u00e9tique (au choix)": [
+                "ENER812 : Vecteur fluide - Fluid engineering applied to energy"
+            ],
+            "UE902 : Energies renouvelables 2 (au choix)": [
+                "ENER916 : TP \u00e9nergies renouvelables - renewable energie practicle",
+                "ENER918 : Stockage de l'\u00e9nergie et TP Energies Renouvelables - Energy storage and renewable energy practical class"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Benjamin Golly",
+        "mail": "benjamin.golly@univ-smb.fr",
+        "cours": {
+            "UE803 : G\u00e9nie des proc\u00e9d\u00e9s et Energie": [
+                "GEDP821 : Syst\u00e8mes r\u00e9actifs et bioproc\u00e9d\u00e9s - Reactive systems and bioprocesses"
+            ],
+            "UE801 : Biotechnologie et Proc\u00e9d\u00e9s (au choix)": [
+                "GEDP811 : Syst\u00e8mes r\u00e9actifs - Kinetics and Reactor Design"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Sylvie Guittonneau",
+        "mail": "sylvie.guittonneau@univ-smb.fr",
+        "cours": {
+            "UE804 : Traitements des effluents": [
+                "DDRS821 : R\u00e9utilisation des eaux et risques sanitaires - Water Reuse and Health Risks"
+            ],
+            "UE601 : Sciences de l'Ing\u00e9nieur EBE2": [
+                "CHIM611 : Chimie - Chemistry"
+            ],
+            "UE602 : Sciences de l'Ing\u00e9nieur EBE3": [
+                "CHIM611w : Chimie - Chemistry"
+            ],
+            "UE801 : Biotechnologie et Proc\u00e9d\u00e9s (au choix)": [
+                "CHIM815 : Gestion des risques industriels - Industrial Risk Management"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Damien Decout",
+        "mail": "damien.decout@univ-smb.fr",
+        "cours": {
+            "UE501 : Sciences de l'Ing\u00e9nieur": [
+                "INFO580 : Informatique - Computer science"
+            ],
+            "UE601 : Sciences de l'Ing\u00e9nieur": [
+                "INFO680 : Informatique - Computer Science"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Nicolas Begel",
+        "mail": "nicoals.begel@univ-smb.fr",
+        "cours": {
+            "UE503 : Connaissance des entreprises et acteurs du b\u00e2timent": [
+                "SHES580 : Ressources et dynamique personnelle et professionnelle - Personal and professional dynamics",
+                "SHES581 : Management des entreprises - Management of Companies"
+            ],
+            "UE504 : Travail en entreprise": [
+                "ENTR580 : Missions en entreprise - Industrial training",
+                "PROJ581 : Focus : Connaissance de l'entreprise -"
+            ],
+            "UE603 : SHES-Langues": [
+                "SHES680 : Management de Projet - Project management"
+            ],
+            "UE604 : Travail en entreprise": [
+                "ENTR680 : Missions en entreprise - Industrial training",
+                "PROJ681 : Focus : Initiation au Management de Projet - Initiation to project management"
+            ],
+            "UE703 : Processus de conception & BIM": [
+                "SHES781 : Management de projet - Project mangement"
+            ],
+            "UE704 : Travail en entreprise": [
+                "ENTR780 : Missions en entreprise - Industrial training",
+                "PROJ781 : Projet Technique - Technical project"
+            ],
+            "UE804 : Travail en entreprise": [
+                "ENTR880 : Missions en entreprise - Industrial training",
+                "PROJ881 : Management et optimisation Technique - Management and technical optimisation"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Pascal Mouille",
+        "mail": "pascal.mouille@univ-smb.fr",
+        "cours": {
+            "UE502 : Sciences de l'Ing\u00e9nieur": [
+                "PROJ541w : D\u00e9couverte exp\u00e9rimentale d'IAI - Experimental learning approach"
+            ],
+            "UE602 : Signal, Syst\u00e8me et Image": [
+                "EASI641w : Signaux et syst\u00e8mes - Signals and Systems"
+            ],
+            "UE702 : Sciences de l'ing\u00e9nieur IAI3": [
+                "EASI744w : Commande bas niveau - Control theory"
+            ],
+            "UE901 : Sciences de l'ing\u00e9nieur IAI4": [
+                "EASI943w : Capteurs virtuels - Software sensors"
+            ],
+            "UE903 : Apprentissage par projet, automatique et supervision": [
+                "EASI944w : Pilotage avanc\u00e9 de syst\u00e8mes continus - Advanced Control of Continuous Systems"
+            ],
+            "UE503 : Sciences de l'Ing\u00e9nieur": [
+                "PROJ541 : D\u00e9couverte exp\u00e9rimentale de la sp\u00e9cialit\u00e9 SNI - An Experimental First Look of the Curriculum"
+            ],
+            "UE603 : Traitement de l'information et programmation": [
+                "EASI641 : Signaux et syst\u00e8mes - Signals and Systems"
+            ],
+            "UE702 : Electronique, automatique et apprentissage par projet": [
+                "EASI744 : Automatique - Stabilit\u00e9 et commande de syst\u00e8mes - Automatics: Stability and Control of closed Loop Systems"
+            ],
+            "UE902 : Automatique et apprentissage par projet": [
+                "EASI943 : Approche d'\u00e9tat en automatique : repr\u00e9sentation, commande et observation - State Space Approach: Representation, Control and Observability"
+            ],
+            "UE701 : Formation Scientifique": [
+                "EASI790 : Automatique continue -"
+            ],
+            "UE702 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "EEATS792 : Automatique \u00e9chantillonn\u00e9e (Parcours CM) - Discrete-time control of continuous-time linear systems"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Philippe Bolon",
+        "mail": "philippe.bolon@univ-savoie.fr",
+        "cours": {
+            "UE602 : Signal, Syst\u00e8me et Image": [
+                "EASI642w : Signal et image : op\u00e9rateurs de base - Signal and Image Processing: basic operators"
+            ],
+            "UE701 : Sciences de l'ing\u00e9nieur IAI2": [
+                "EEATS731 : Introduction au traitement du signal et des images - Introduction to Signal and Image Processing",
+                "EEATS735 : Signal - Image : introduction - Sgnal and Image an Introduction",
+                "MATH731 : Math\u00e9matiques sp\u00e9cialis\u00e9es - Specialized Mathematics"
+            ],
+            "": [
+                "EEATS 925 : Vision industrielle -",
+                "EEATS 926 : Traitement d'images -"
+            ],
+            "UE902 : Traitement de l'information": [
+                "EASI942w : Imagerie 3 D : acquisition, reconstruction, applications - 3D Imaging Technology : principles, methods, applications"
+            ],
+            "UE903 : Data science et objets communicants": [
+                "EASI942 : Imagerie 3D : acquisition, reconstruction, applications - 3D Imaging Technology : principles, methods, applications"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Michelle Passard",
+        "mail": "michelle.passard@univ-savoie.fr",
+        "cours": {
+            "UE702 : Sciences de l'ing\u00e9nieur IAI3": [
+                "EASI743w : Syst\u00e8mes d'acquisition de donn\u00e9es - Programmation graphique - Data acquisition systems - Graphic programming",
+                "EEATS733 : Syst\u00e8mes d'acquisition de donn\u00e9es - programmation graphique - Data Acquisition"
+            ],
+            "UE801 : Automatique et Image": [
+                "EEATS831 : Capteurs et m\u00e9trologie - Sensors, Instrumentation and Measurement"
+            ],
+            "UE802 : Instrumentation": [
+                "EASI841w : Capteurs et m\u00e9trologie - Sensors, Instrumentation and Measurement"
+            ],
+            "": [
+                "EEATS 911 : Modulations et Transmissions -"
+            ],
+            "UE702 : Electronique, automatique et apprentissage par projet": [
+                "PACI742 : Syst\u00e8mes d'acquisition de donn\u00e9es - Programmation graphique - Data acquisition systems - Graphic programming"
+            ],
+            "UE803 : Mesures, instrumentation et pilotage de syst\u00e8mes": [
+                "PACI841 : Physique exp\u00e9rimentale, mesures, capteurs et instrumentation - Experimental Physics, Measurements, Sensors and Instrumentation"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Emmanuel Trouve",
+        "mail": "emmanuel.trouve@univ-smb.fr",
+        "cours": {
+            "UE801 : Automatique et Image": [
+                "EASI842w : Analyse d'image et vision par ordinateur - Image analysis and computer vision",
+                "EEATS834 : Images et syst\u00e8mes d'informations (parcours SIL) - Images and Information Systems",
+                "EEATS835 : Analyse d'images et vision par ordinateur -"
+            ],
+            "": [
+                "EEATS 914 : Traitement des images -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Jacques Lottin",
+        "mail": "jacques.lottin@univ-savoie.fr",
+        "cours": {
+            "UE801 : Automatique et Image": [
+                "EEATS832 : Mod\u00e8les d'\u00e9tat - capteurs virtuels (parcours SIC) - Visual sensors based on state-space models"
+            ],
+            "": [
+                "EEATS 921 : Automatique avanc\u00e9e -",
+                "EEATS 923 : Optimisation I -"
+            ],
+            "UE901 : Sciences de l'ing\u00e9nieur IAI4": [
+                "EEATS931 : Mod\u00e9lisation, Simulation et Prototypage - Modeling, Simulation, rapid Prototyping",
+                "EEATS933 : Optimisation - Optimisation"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Patrice Moreaux",
+        "mail": "patrice.moreaux@univ-savoie.fr",
+        "cours": {
+            "UE801 : Automatique et Image": [
+                "EEATS836 : Mod\u00e8les des syst\u00e8mes \u00e0 \u00e9v\u00e8nements discrets et applications - Models and Applications of Discrete Event Systems"
+            ],
+            "": [
+                "IGI 941 : Middlewares -",
+                "IGI 943 : Sp\u00e9cifications formelles et v\u00e9rification -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Lucia Di Ciaccio-Burkhardt",
+        "mail": "lucia.di.ciaccio@cern.ch",
+        "cours": {
+            "UE801 : Automatique et Image": [
+                "PHYS832 : Mat\u00e9riaux et instrumentations sp\u00e9cifiques (parcours SIC) - Materials and Radiation Detectors"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Ronan Le Dantec",
+        "mail": "ronan.le-dantec@univ-savoie.fr",
+        "cours": {
+            "": [
+                "EEATS 913 : Composants et micro\u00e9lectronique -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Francois Iapteff",
+        "mail": "francois.iapteff@univ-savoie.fr",
+        "cours": {
+            "UE602 : Sciences de l'Ing\u00e9nieur EBE3": [
+                "GCH611 : Technologie et DAO - Technology and CAD"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Jean Luc Besombes",
+        "mail": "jean-luc.besombes@univ-savoie.fr",
+        "cours": {
+            "UE701 : Sciences Environnementales (au choix)": [
+                "CHIM711 : Impacts Environnementaux - Environmental impact of combustion",
+                "CHIM711-2 : Impacts Environnementaux - Environmental impact of combustion"
+            ],
+            "UE801 : Biotechnologie et Proc\u00e9d\u00e9s (au choix)": [
+                "CHIM816 : Diagnostic des nuisances environnementales - Environmental pollution: Monitoring and Assessment"
+            ],
+            "": [
+                "CHIM 901 : Chimie de l'atmosph\u00e8re -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Yves Gonthier",
+        "mail": "yves.gonthier@univ-savoie.fr",
+        "cours": {
+            "UE701 : Sciences Environnementales (au choix)": [
+                "GEDP711 : Traitement des gaz - Gas treatment Processes"
+            ],
+            "UE703 : Energ\u00e9tique appliqu\u00e9e": [
+                "ENER713 : Contr\u00f4le et r\u00e9gulation de syst\u00e8mes - Process control"
+            ],
+            "UE901 : Traitement des eaux et bioproc\u00e9d\u00e9s (au choix)": [
+                "GEDP911 : Op\u00e9rations unitaires et proc\u00e9d\u00e9s de s\u00e9paration, Approche th\u00e9orique - Units operations and separation processes, theoretical approach"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Laurent Hilaire",
+        "mail": "laurent.hilaire@univ-savoie.fr",
+        "cours": {
+            "UE703 : Energ\u00e9tique appliqu\u00e9e": [
+                "SHES711 : Droit des march\u00e9s - Management de la Qualit\u00e9 - Procurement Law - Quality Management System"
+            ],
+            "UE804 : Passerelle vers le milieu professionnel": [
+                "SHES811 : Management Environnemental - Analyse du Cycle de Vie - Environnemental Management System - Life Cycle Analysis"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Etienne Wurtz",
+        "mail": "etienne.wurtz@univ-savoie.fr",
+        "cours": {
+            "": [
+                "ENER 902 : Mod\u00e9lisation des syst\u00e8mes \u00e9nerg\u00e9tiques -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Alain Ricaud",
+        "mail": "alain.ricaud@univ-savoie.fr",
+        "cours": {
+            "": [
+                "ENER 905 : Solaire photovolta\u00efque -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Pascal Perrotin",
+        "mail": "pascal.perrotin@univ-savoie.fr",
+        "cours": {
+            "": [
+                "GCH 901 : M\u00e9caniques des structures et b\u00e9ton pr\u00e9contraint -",
+                "GCH 902 : Dynamique des structures et g\u00e9nie parasismique -",
+                "PROJ 901 : Projet technique -"
+            ],
+            "UE901 : Ing\u00e9nierie du B\u00e2timent 3 (au choix)": [
+                "GCH911 : M\u00e9canique des structures - Structural Analysis and Mechanics",
+                "GCH913 : Dynamique des structures et g\u00e9nie parasismique - Structural Dynamics & Earthquake Engineering"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Herve Boileau",
+        "mail": "alain.bernis@univ-savoie.fr",
+        "cours": {
+            "": [
+                "GDP 901 : Traitements chimiques en phase gazeuse, traitements des effluents gazeux - I -",
+                "GDP 902 : Traitements des effluents gazeux - II -",
+                "GDP 903 : TP Op\u00e9rations unitaires sur pilotes -",
+                "SHES 902 : Droit de l'environnement - Economie de l'environnement -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Gerard Merlin",
+        "mail": "gerard.merlin@univ-savoie.fr",
+        "cours": {
+            "": [
+                "STV 901 : Utilisation et traitements des sols, risques sanitaires -"
+            ],
+            "UE901 : Traitement des eaux et bioproc\u00e9d\u00e9s (au choix)": [
+                "GDP911 : Bioproc\u00e9d\u00e9s et biotechnologies appliqu\u00e9s \u00e0 l'environnement - Environmental biotechnology and bioprocess Engineering"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Quoc-Bao Bui",
+        "mail": "quoc-bao.bui@univ-savoie.fr",
+        "cours": {
+            "UE901 : Ing\u00e9nierie du B\u00e2timent 3 (au choix)": [
+                "GCH912 : B\u00e9ton arm\u00e9 et pr\u00e9contraint - Reinforced and Prestressed Concrete Structures"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Francis Domain",
+        "mail": "francis.domain@univ-savoie.fr",
+        "cours": {
+            "UE902 : Energies renouvelables 2 (au choix)": [
+                "ENER915b : Solaire photovoltaique - Solar photovoltaic energy"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Michel Mommessin",
+        "mail": "michel.mommessin@univ-savoie.fr",
+        "cours": {
+            "UE902 : Gestion d'op\u00e9rations de construction et de patrimoine (au choix)": [
+                "GCH916 : R\u00e9alisation - Building methods and construction management"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Herve Louche",
+        "mail": "herve.louche@univ-savoie.fr",
+        "cours": {
+            "": [
+                "MGM 590 : Outils pour l'ing\u00e9nieur -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Franck Toussaint",
+        "mail": "franck.toussaint@univ-savoie.fr",
+        "cours": {
+            "": [
+                "MGM 591 : M\u00e9canique -",
+                "MATE 991 : Mat\u00e9riaux c\u00e9ramiques -"
+            ],
+            "UE902 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "MATE 991 : Mat\u00e9riaux c\u00e9ramiques et approfondissement mat\u00e9riaux -",
+                "MATE991 : Mat\u00e9riaux c\u00e9ramiques & approfondissement mat\u00e9riaux (Parcours GI) -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Philippe Tronquoy",
+        "mail": "philippe.tronquoy@worldonline.fr",
+        "cours": {
+            "": [
+                "MGM 597 : Qualit\u00e9 totale -",
+                "MGM 598 : Gestion de production -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Francoise Coillard",
+        "mail": "itii-adm@univ-savoie.fr",
+        "cours": {
+            "": [
+                "PROJ 590 : Th\u00e8me de d\u00e9couverte du m\u00e9tier d'ing\u00e9nieur -",
+                "SHES 590 : Introduction \u00e0 la connaissance des entreprises -",
+                "PROJ 690 : Cahier des charges du cahier technique -",
+                "SHES 690 : D\u00e9veloppement cognitif -",
+                "PROJ 790 : Projet technique -",
+                "SHES 791 : Entrepreneuriat -",
+                "MGM 893 : Mesure et contr\u00f4le -",
+                "PROJ 990 : Projet management -",
+                "SHES 991 : Sciences humaines -",
+                "PROJ 1090 : Projet ing\u00e9nieur -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Ludovic Schiff",
+        "mail": "ludovic.schiff@univ-smb.fr",
+        "cours": {
+            "UE502 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "MECA595 : Industrialisation - Proc\u00e9d\u00e9s de r\u00e9alisation des bruts (Parcours GI) -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Pascale Pissard-Maillet",
+        "mail": "itii2savoies@poleformation74.com",
+        "cours": {
+            "UE503 : Connaissance des entreprises": [
+                "MECA597 : Qualit\u00e9 totale -",
+                "MECA598 : Gestion de production -",
+                "SHES 591 : Initiation au d\u00e9veloppement durable - D\u00e9veloppement cognitif -",
+                "SHES590 : Introduction \u00e0 la connaissance des entreprises -"
+            ],
+            "UE602 : M\u00e9thodologie de l'ing\u00e9nieur": [
+                "MECA692 : Plan d'exp\u00e9riences - Outils m\u00e9thodologiques -"
+            ],
+            "UE603 : Connaissance de l'entreprise": [
+                "SHES690 : D\u00e9veloppement cognitif -",
+                "SHES691 : Initiation au d\u00e9veloppement durable - Approche site -"
+            ],
+            "UE703 : Connaissance de l'entreprise": [
+                "SHES790 : Gestion - Entrepreneuriat -",
+                "SHES792 : D\u00e9veloppement durable - Approche produit -"
+            ],
+            "UE803 : Management et Anglais": [
+                "SHES890 : Conduite de projets - Sciences humaines -"
+            ],
+            "UE903 : Management & Anglais": [
+                "SHES990 : L\u00e9gislation, ergonomie, innovation et croissance verte -",
+                "SHES991 : Sciences humaines -",
+                "SHES992 : Conduite de projet -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Alain Fleuret",
+        "mail": "alain.fleuret@univ-savoie.fr",
+        "cours": {
+            "": [
+                "EEATS 690 : Courants forts -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Marcel Peyret",
+        "mail": "marcel.peyret@univ-savoie.fr",
+        "cours": {
+            "": [
+                "EEATS 690 : Courants forts -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Maurice Pillet",
+        "mail": "maurice.pillet@univ-savoie.fr",
+        "cours": {
+            "": [
+                "MGM 692 : Plan d'exp\u00e9riences, qualit\u00e9 -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Jacques Dufour",
+        "mail": "jacques.dufour@univ-savoie.fr",
+        "cours": {
+            "": [
+                "EEATS 790 : Automatique continue -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Denis Floutier",
+        "mail": "denis.floutier@univ-savoie.fr",
+        "cours": {
+            "": [
+                "EEATS 791 : Courants faibles -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Andre Betemps",
+        "mail": "andre.betemps@univ-savoie.fr",
+        "cours": {
+            "": [
+                "EEATS 791 : Courants faibles -"
+            ],
+            "UE701 : Formation Scientifique": [
+                "EASI791 : Courants faibles -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Chantal Bonnefous",
+        "mail": "chantal.bonnefous@univ-savoie.fr",
+        "cours": {
+            "": [
+                "MGM 792 : Logistique de production et organisation industrielle -",
+                "MGM 892 : Gestion de production -"
+            ],
+            "UE802 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "MECA892 : Gestion de production (Parcours GI) -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Jean-Luc Maire",
+        "mail": "jean-luc.maire@univ-savoie.fr",
+        "cours": {
+            "UE702 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "MECA792 : Logistique de production (Parcours GI) -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Pascale Balland",
+        "mail": "pascale.balland@univ-savoie.fr",
+        "cours": {
+            "": [
+                "MATE 890 : Mat\u00e9riaux m\u00e9talliques -",
+                "MGM 890 : M\u00e9canique des fluides, dynamique des structures -"
+            ],
+            "UE902 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "MATE 991 : Mat\u00e9riaux c\u00e9ramiques et approfondissement mat\u00e9riaux -",
+                "MATE991 : Mat\u00e9riaux c\u00e9ramiques & approfondissement mat\u00e9riaux (Parcours GI) -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Gilles Hugon",
+        "mail": "gilles.hugon@univ-savoie.fr",
+        "cours": {
+            "": [
+                "MGM 891 : CAO et conception -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Alain Sergent",
+        "mail": "alain.sergent@univ-smb.fr",
+        "cours": {
+            "UE802 : M\u00e9thodologie de l'Ing\u00e9nieur": [
+                "MECA893 : Mesure et contr\u00f4le (Parcours GI) -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Jean-Paul Denat",
+        "mail": "jean-paul.denat@univ-savoie.fr",
+        "cours": {
+            "": [
+                "EEATS 990 : Automatique des syst\u00e8mes \u00e9v\u00e9nements discrets -"
+            ]
+        },
+        "papers": []
+    },
+    {
+        "nom": "Max Giordano",
+        "mail": "max.giordano@univ-savoie.fr",
+        "cours": {
+            "": [
+                "MGM 990 : CAO et tol\u00e9rancement -"
+            ]
+        },
+        "papers": []
+    }
+]
